@@ -10,6 +10,8 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * [MIT OCW: Introduction to Financial and Managerial Accounting](https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/)
 * BOOK: "Finance and Accounting for Entrepreneurs" by Suzanne Caplan
 
+#### 🔴 Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/
 
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
