@@ -16,6 +16,7 @@ A course that I have assembled for myself to study **the intersection between "S
 * How to Win Friends and Influence People by Dale Carnegie
 * A Nation of Sheep by Andrew Napolitano (2007)
 * 1976: The Selfish Gene by Richard Dawkins
+* 1992: "The Third Chimpanzee: The Evolution and Future of the Human Animal" by Jared Diamond
 
 
 ## Research Project
