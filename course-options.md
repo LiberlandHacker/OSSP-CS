@@ -69,6 +69,9 @@ COURSES:
 * Hack the Box Academy
 * Hack the Box
 
+#### 🔴 Politics: American Elections
+* [MIT OCW: American Elections](https://ocw.mit.edu/courses/17-263-american-elections-fall-2020/)
+
 #### 🔴 Politics: How to Run for Office
 COURSES:
 * [Nation Builder: How to Run for Office](https://nationbuilder.com/course_how_to_run_for_office/?recruiter_id=969659)
