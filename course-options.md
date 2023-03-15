@@ -35,6 +35,16 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 ##### COURSES
 * https://www.cdc.gov/nceh/ehs/elearn/ephoc.htm#:~:text=EPHOC%20courses%20are%20free.,minute%20modules%2C%20and%20a%20posttest.
 
+#### 🔴 Genetics and Political Views
+A study of the research on the impact genetics has on one's political views. 
+
+#### 🔴 Genetics, Intelligence, and Society
+BOOKS:
+* 1994: "The Bell Curve: Intelligence and Class Structure in American Life" by Herrnstein & Murray
+* 1995: "The Bell Curve Debate: History, Documents, Opinions" Edited by Jacoby and Glauberman
+* 1995: "The Bell Curve Wars: Race, Intelligence, and the Future of America" Edited by Steven Fraser
+* 2002: "Genetic politics: From eugenics to genome" by Anne Kerr and Tom Shakespeare
+
 #### 🔴 History of Motherhood
 BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 
