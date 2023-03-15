@@ -68,7 +68,6 @@ BOOKS:
 COURSES:
 * Hack the Box Academy
 * Hack the Box
-* 
 
 #### 🔴 Reproductive Biology
 [MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
