@@ -105,6 +105,7 @@ BOOKS:
 * 2021: "Tax Savvy for Small Business: A Complete Tax Strategy Guide" by Daily and Fishman
 
 RESOURCES:
+* [U.S. Code Title 26](https://www.law.cornell.edu/uscode/text/26)
 * [IRS website](https://www.irs.gov/forms-instructions)
 * YouTube
   * [ClearValue Tax](https://www.youtube.com/@clearvaluetax9382)
