@@ -97,6 +97,15 @@ BOOK: Hands-On Smart Contract Development with Solidity and Ethereum
 #### 🟡 Startup School (updated)
 Y Combinator: Startup School.
 
+#### 🔴 Taxation in the United States
+COURSES:
+* [MIT OCW: Taxes and Business Strategy](https://ocw.mit.edu/courses/15-518-taxes-and-business-strategy-fall-2002/)
+
+RESOURCES:
+* [IRS website](https://www.irs.gov/forms-instructions)
+* YouTube
+  * [ClearValue Tax](https://www.youtube.com/@clearvaluetax9382)
+  * [LYFE Accounting](https://www.youtube.com/@LYFEAccounting)
 
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
