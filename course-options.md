@@ -42,7 +42,7 @@ https://automatetheboringstuff.com/
 * https://www.cdc.gov/nceh/ehs/elearn/ephoc.htm#:~:text=EPHOC%20courses%20are%20free.,minute%20modules%2C%20and%20a%20posttest.
 
 #### 🔴 Game Theory
-COURSES:
+##### COURSES:
 * [Open Yale ECON 159: Game Theory](https://oyc.yale.edu/economics/econ-159)
 * [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
 * [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
@@ -51,14 +51,14 @@ COURSES:
 A study of the research on the impact genetics has on one's political views. 
 
 #### 🔴 Genetics, Intelligence, and Society
-BOOKS:
+##### BOOKS:
 * 1994: "The Bell Curve: Intelligence and Class Structure in American Life" by Herrnstein & Murray
 * 1995: "The Bell Curve Debate: History, Documents, Opinions" Edited by Jacoby and Glauberman
 * 1995: "The Bell Curve Wars: Race, Intelligence, and the Future of America" Edited by Steven Fraser
 * 2002: "Genetic politics: From eugenics to genome" by Anne Kerr and Tom Shakespeare
 
 #### 🔴 History of Motherhood
-BOOK: Mother Nature: A history of mothers, infants, and natural selection.
+##### BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 
 #### 🔴 Libertarianism in History
 [MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
@@ -67,6 +67,7 @@ BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 [MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
 
 #### 🔴 New Hampshire Law, Intro to
+##### RESOURCES
 [NH Laws and Rules](https://www.nh.gov/glance/laws-rules.htm)
 [NH Courts resources for Students](https://www.courts.nh.gov/students)
 
@@ -74,10 +75,10 @@ BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 [MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
 
 #### 🔴 Penetration Testing
-BOOKS:
+##### BOOKS:
 * Wil Allsopp: Advanced Penetration Testing
 
-COURSES:
+##### COURSES:
 * Hack the Box Academy
 * Hack the Box
 
@@ -85,7 +86,7 @@ COURSES:
 * [MIT OCW: American Elections](https://ocw.mit.edu/courses/17-263-american-elections-fall-2020/)
 
 #### 🔴 Politics: How to Run for Office
-COURSES:
+##### COURSES:
 * [Nation Builder: How to Run for Office](https://nationbuilder.com/course_how_to_run_for_office/?recruiter_id=969659)
 
 #### 🔴 Reproductive Biology
@@ -99,7 +100,8 @@ COURSES:
 * [CoS Reading List](https://www.churchofsatan.com/sources-book-list/)
 
 #### 🔴 Solidity
-BOOK: Hands-On Smart Contract Development with Solidity and Ethereum 
+##### BOOK: 
+Hands-On Smart Contract Development with Solidity and Ethereum 
 
 #### 🔴 Sperm
 [MIT OCW: The Science of Sperm](https://ocw.mit.edu/courses/7-345-the-science-of-sperm-fall-2014/)
@@ -108,13 +110,13 @@ BOOK: Hands-On Smart Contract Development with Solidity and Ethereum
 Y Combinator: Startup School.
 
 #### 🔴 Taxation in the United States
-COURSES:
+##### COURSES:
 * [MIT OCW: Taxes and Business Strategy](https://ocw.mit.edu/courses/15-518-taxes-and-business-strategy-fall-2002/)
 
-BOOKS:
+##### BOOKS:
 * 2021: "Tax Savvy for Small Business: A Complete Tax Strategy Guide" by Daily and Fishman
 
-RESOURCES:
+##### RESOURCES:
 * [U.S. Code Title 26](https://www.law.cornell.edu/uscode/text/26)
 * [IRS website](https://www.irs.gov/forms-instructions)
 * YouTube
