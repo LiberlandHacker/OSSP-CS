@@ -4,6 +4,10 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 
 **Be sure and add the appropriate courses to the appropriate folders as you go along. This file is basically just a dump of ideas.**
 
+## General Sources of Courses
+* [MIT OCW](https://ocw.mit.edu/search/)
+* [Open Yale](https://oyc.yale.edu/courses)
+
 ## Anytime
 
 #### 🔴 Accounting
@@ -36,6 +40,11 @@ https://automatetheboringstuff.com/
 
 ##### COURSES
 * https://www.cdc.gov/nceh/ehs/elearn/ephoc.htm#:~:text=EPHOC%20courses%20are%20free.,minute%20modules%2C%20and%20a%20posttest.
+
+#### 🔴 Game Theory
+* [Open Yale ECON 159: Game Theory](https://oyc.yale.edu/economics/econ-159)
+* [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
+* [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
 
 #### 🔴 Genetics and Political Views
 A study of the research on the impact genetics has on one's political views. 
