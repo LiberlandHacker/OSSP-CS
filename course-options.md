@@ -58,21 +58,22 @@ A study of the research on the impact genetics has on one's political views.
 * 2002: "Genetic politics: From eugenics to genome" by Anne Kerr and Tom Shakespeare
 
 #### 🔴 History of Motherhood
-##### BOOK: Mother Nature: A history of mothers, infants, and natural selection.
+##### BOOK: 
+* Mother Nature: A history of mothers, infants, and natural selection.
 
 #### 🔴 Libertarianism in History
-[MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
+* [MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
 
 #### 🔴 Make Almost Anything
-[MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
+* [MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
 
 #### 🔴 New Hampshire Law, Intro to
 ##### RESOURCES
-[NH Laws and Rules](https://www.nh.gov/glance/laws-rules.htm)
-[NH Courts resources for Students](https://www.courts.nh.gov/students)
+* [NH Laws and Rules](https://www.nh.gov/glance/laws-rules.htm)
+* [NH Courts resources for Students](https://www.courts.nh.gov/students)
 
 #### 🔴 Paradise Lost
-[MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
+* [MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
 
 #### 🔴 Penetration Testing
 ##### BOOKS:
