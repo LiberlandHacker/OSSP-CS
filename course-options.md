@@ -42,6 +42,7 @@ https://automatetheboringstuff.com/
 * https://www.cdc.gov/nceh/ehs/elearn/ephoc.htm#:~:text=EPHOC%20courses%20are%20free.,minute%20modules%2C%20and%20a%20posttest.
 
 #### 🔴 Game Theory
+COURSES:
 * [Open Yale ECON 159: Game Theory](https://oyc.yale.edu/economics/econ-159)
 * [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
 * [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
