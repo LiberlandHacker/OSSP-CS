@@ -101,6 +101,9 @@ Y Combinator: Startup School.
 COURSES:
 * [MIT OCW: Taxes and Business Strategy](https://ocw.mit.edu/courses/15-518-taxes-and-business-strategy-fall-2002/)
 
+BOOKS:
+* 2021: "Tax Savvy for Small Business: A Complete Tax Strategy Guide" by Daily and Fishman
+
 RESOURCES:
 * [IRS website](https://www.irs.gov/forms-instructions)
 * YouTube
