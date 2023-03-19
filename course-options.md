@@ -120,6 +120,7 @@ Y Combinator: Startup School.
 ##### RESOURCES:
 * [U.S. Code Title 26](https://www.law.cornell.edu/uscode/text/26)
 * [IRS website](https://www.irs.gov/forms-instructions)
+* [IRS Videos](https://www.irsvideos.gov/)
 * YouTube
   * [ClearValue Tax](https://www.youtube.com/@clearvaluetax9382)
   * [LYFE Accounting](https://www.youtube.com/@LYFEAccounting)
