@@ -126,6 +126,8 @@ Y Combinator: Startup School.
 * YouTube
   * [ClearValue Tax](https://www.youtube.com/@clearvaluetax9382)
   * [LYFE Accounting](https://www.youtube.com/@LYFEAccounting)
+  * [Nomad Capitalist](https://www.youtube.com/@nomadcapitalist)
+  * [The Business Guy](https://www.youtube.com/@TheBusinessGuy)
 
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
