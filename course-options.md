@@ -113,6 +113,8 @@ Y Combinator: Startup School.
 #### 🔴 Taxation in the United States
 ##### COURSES:
 * [MIT OCW: Taxes and Business Strategy](https://ocw.mit.edu/courses/15-518-taxes-and-business-strategy-fall-2002/)
+* [IRS: Understanding Taxes (2014)](https://apps.irs.gov/app/understandingTaxes/index.jsp)
+* [IRS: Link & Learn Taxes (current)](https://www.irs.gov/individuals/link-learn-taxes)
 
 ##### BOOKS:
 * 2021: "Tax Savvy for Small Business: A Complete Tax Strategy Guide" by Daily and Fishman
