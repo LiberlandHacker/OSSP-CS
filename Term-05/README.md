@@ -19,7 +19,7 @@
   * [Nomad Capitalist](https://www.youtube.com/@nomadcapitalist)
   * [The Business Guy](https://www.youtube.com/@TheBusinessGuy)
   
-## WikiTree
+## 🟡 [WikiTree](./WikiTree)
 
 How to build my family tree on WikiTree. 
 
