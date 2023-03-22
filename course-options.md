@@ -77,7 +77,8 @@ A study of the research on the impact genetics has on one's political views.
 
 #### 🔴 Penetration Testing
 ##### BOOKS:
-* Wil Allsopp: Advanced Penetration Testing
+* 2008: Stuttard & Pinto: "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws" 
+* 2017: Wil Allsopp: Advanced Penetration Testing
 
 ##### COURSES:
 * Hack the Box Academy
