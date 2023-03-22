@@ -1,5 +1,8 @@
 # Term 05
 
+## 🔴 [Religion: Satanism II: Satan and Human Nature](./satan)
+
+
 ## 🔴 Taxation in the United States
 ##### COURSES:
 * [MIT OCW: Taxes and Business Strategy](https://ocw.mit.edu/courses/15-518-taxes-and-business-strategy-fall-2002/)
