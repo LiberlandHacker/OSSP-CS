@@ -227,6 +227,8 @@ Pick 3 companies to apply to.
 > *or*  
 > [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/archives.html)
 
+[Intel AI Dev Team Adventures](https://devchallenge.intel.com/na_kaggle)
+
 #### 🔴 Parallel Computing
 
 > [Carnegie Mellon 15-418](http://15418.courses.cs.cmu.edu/spring2015/)
