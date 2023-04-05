@@ -108,6 +108,11 @@ A study of the research on the impact genetics has on one's political views.
 * [TST Reading List](https://thesatanictemple.com/pages/the-satanic-temple-library?fbclid=IwAR09nQWlfNVmhFbYklsVhXcbDIWaEHOpJTf7b6lNEYsvqhiLQEyVmA8sA1Y)
 * [CoS Reading List](https://www.churchofsatan.com/sources-book-list/)
 
+#### 🔴 Satellite Communications
+
+##### BOOKS
+* 2008: Steve Ford: "The ARRL Satellite Handbook"
+
 #### 🔴 Solidity
 ##### BOOK: 
 Hands-On Smart Contract Development with Solidity and Ethereum 
