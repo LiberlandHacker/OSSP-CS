@@ -91,6 +91,11 @@ A study of the research on the impact genetics has on one's political views.
 ##### COURSES:
 * [Nation Builder: How to Run for Office](https://nationbuilder.com/course_how_to_run_for_office/?recruiter_id=969659)
 
+#### 🔴 Religion and Skepticism in Society
+
+##### BOOKS:
+* 1986: Margaret Atwood: The Handmaid's Tale
+
 #### 🔴 Reproductive Biology
 [MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
 
