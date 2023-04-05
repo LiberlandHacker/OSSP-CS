@@ -95,6 +95,8 @@ A study of the research on the impact genetics has on one's political views.
 
 ##### BOOKS:
 * 1986: Margaret Atwood: The Handmaid's Tale
+* 1997: Carl Sagan: "Billions and Billions: Thoughts on Life and Death at the Brink of the Millenium"
+* 2010: Dan Ariely: "The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home"
 
 #### 🔴 Reproductive Biology
 [MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
