@@ -20,6 +20,13 @@ https://automatetheboringstuff.com/
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
+#### 🔴 Construction: How to build a building
+
+##### BOOKS:
+* 1979: Gaylord and Gaylord: "Structural Engineering Handbook"
+* 1988: The Portland Cement Association: "The Homeowner's Guide to Building with Concrete, Brick, & Stone"
+* 1992: Alth, Alth, and Duncan: "Wells and Septic Systems"
+
 #### 🔴 Economics, Intro to
 ##### BOOKS:
 * N. Gregory Mankiw: Essentials of Economics
