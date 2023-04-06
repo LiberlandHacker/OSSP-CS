@@ -193,6 +193,7 @@ A study of the research on the impact genetics has on one's political views.
 * 2006: André Comte-Sponville: "The Little Book of Atheist Spirituality"
 * 2010: Dan Ariely: "The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home"
 * 2011: Duncan Watts: "Everything Is Obvious: How Common Sense Fails Us"
+* 2011: Bart D. Ehrman: "Forged: Writing in the Name of God--Why the Bible's Authors Are Not Who We Think They Are"
 
 #### 🔴 Reproductive Biology
 [MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
