@@ -210,6 +210,16 @@ A study of the research on the impact genetics has on one's political views.
 ##### BOOKS
 * 2008: Steve Ford: "The ARRL Satellite Handbook"
 
+#### 🔴 Sociology: Family Structures
+
+This course will explore the various types of family structures that exist, including traditional nuclear families, single-parent families, blended families, same-sex parent families, polyamorous families, and more. Students will examine the historical, cultural, and social factors that have influenced the development and prevalence of these structures, and analyze the advantages and disadvantages of each. Additionally, the course will consider innovative concepts and emerging trends that challenge traditional family structures.
+
+##### BOOKS
+* 1992: Stephanie Coontz: "The Way We Never Were: American Families and the Nostalgia Trap"
+
+##### ONLINE
+* 2015: [Pew Research: PARENTING IN AMERICA: 1. The American family today](https://www.pewresearch.org/social-trends/2015/12/17/1-the-american-family-today/)
+
 #### 🔴 Solidity
 ##### BOOK: 
 Hands-On Smart Contract Development with Solidity and Ethereum 
