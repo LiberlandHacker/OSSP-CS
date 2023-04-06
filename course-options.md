@@ -18,6 +18,15 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 #### 🔴 Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/
 
+#### 🔴 Business: How to get and keep customers
+
+##### BOOKS
+* 1993: Blanchard and Bowles: "Raving Fans: A Revolutionary Approach to Customer Service"
+* 2003: Mark Stevens: "Your Marketing Sucks: see details inside"
+* 2004: Blanchard, Ballard, and Finch: "Customer Mania! It's Never Too Late to Build a Customer-Focused Company"
+* 2005: Jeffrey Gitomer's "Little Red Book of Selling"
+* 2011: Gary Vaynerchuck: "The Thank You Economy"
+
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
