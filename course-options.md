@@ -31,10 +31,25 @@ https://automatetheboringstuff.com/
 ##### PROJECT: Mini Underground Bunker
 * Pre-work
   * Design the structure.
+    * Water-resistance
+      * Ensure that the design of the bunker includes a good drainage system to channel water away from the bunker. The slope of the bunker floor should also be designed in such a way that water drains away from the structure.
+      * Water-resistant concrete mix: Use a water-resistant concrete mix, which contains additives such as silica fume, fly ash or slag. These additives help to reduce the size of the pores in the concrete and make it less permeable to water.
+      * Sealants: Apply a waterproof sealant to the surface of the concrete bunker. There are different types of sealants, such as acrylic, epoxy, and polyurethane. Choose a sealant that is suitable for the conditions in which the bunker will be used.
+      * Membrane systems: Consider using a waterproof membrane system. A membrane system involves placing a layer of waterproof material over the concrete. This layer can be made of various materials such as PVC, bitumen, or EPDM.
+      * Drainage: Install a proper drainage system to ensure that water is diverted away from the bunker. This can include French drains, sump pumps or other systems.
+    * Physical strength
+      * Use scientific principles to distribute the forces that the structure will experience. 
+    * Aesthetics
+      * Make it look cool.
+      * Furniture
+    * Redundancy
+      * Redundant power
+      * Redundant entries/exits
   * Permitting
     * Pick a municipality.
     * Go through a mock permitting process as if you were to actually build a struture in that municipality. 
     * Research all rules and regulations for that community. Write a report on land use restrictions for that jurisdiction.
+    * In real life, get parents' permission for location of bunker project.
   * Calculate upfront and ongoing costs
     * 20+ acres lot in that town (price, agent, closing costs, transaction fees and taxes). 
     * Permitting/regulatory approval costs (fees, paperwork, sitting through bureacracy).
@@ -82,6 +97,10 @@ https://automatetheboringstuff.com/
     * Compare before and after conditions. 
       * If bunker was unharmed, then it passes this test. 
       * If the bunker shows signs of damage categorize the severity of damage, investigate potential causes, implement potential solutions, and run this test again.
+  * Longevity test
+    * Place a cache of notes, food, and water in the bunker. Note the date of placement.
+    * Seal the bunker. 
+    * Revisit it a year later.
 
 
 #### 🔴 Economics, Intro to
