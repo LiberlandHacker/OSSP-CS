@@ -219,8 +219,15 @@ This course will explore the various types of family structures that exist, incl
 * 2015: Patrick and Patrick: "Dude's Guide to Marriage: Ten Skills Every Husband Must Develop to Love His Wife Well"
 
 ##### ONLINE
+* [Wikipedia: Family](https://en.wikipedia.org/wiki/Family)
+* 2010: [CDC: Family Structure and Children’s Health in the United States](https://www.cdc.gov/nchs/data/series/sr_10/sr10_246.pdf)
+* 2013: [Pew Research: Breadwinner Moms](https://www.pewresearch.org/social-trends/2013/05/29/breadwinner-moms/)
+* 2013: [Pew Research: More of today’s single mothers have never been married](https://www.pewresearch.org/fact-tank/2013/08/16/more-of-todays-single-mothers-have-never-been-married/)
 * 2015: [Pew Research: PARENTING IN AMERICA: 1. The American family today](https://www.pewresearch.org/social-trends/2015/12/17/1-the-american-family-today/)
+* 2017-07-05: [Science Daily: Children in single-mother-by-choice families do just as well as those in two-parent families](https://www.sciencedaily.com/releases/2017/07/170705095332.htm)
+* 2018-04-25: [Pew Research: The Changing Profile of Unmarried Parents](https://www.pewresearch.org/social-trends/2018/04/25/the-changing-profile-of-unmarried-parents/)
 * 2019: [Insider: THEN AND NOW: How American families have changed since the early 1900s](https://www.insider.com/how-families-have-changed-then-and-now-america-2019-3)
+* 2022-03-24: [Insider: I'm pregnant and single on purpose. Here's why I'm glad I made this choice.](https://www.insider.com/single-and-pregnant-im-glad-i-made-this-choice-2022-3)
 * 2022: [Insider: Nick Cannon says 'consensual non-monogamy' has made him a better version of himself after being a 'toxic' cheater](https://www.insider.com/nick-cannon-consensual-non-monogamy-transformed-toxic-cheating-2022-7)
 * 2022: [Insider: I told my partner I wanted to try being polyamorous. It's changed how we coparent, and how I view our relationship.](https://www.insider.com/polyamory-changed-how-my-partner-and-i-coparent-2022-10)
 * 2023: [Insider: 6 women share why they had affairs, why they don't regret it, and how they didn't get caught](https://www.insider.com/women-share-why-had-affairs-cheating-how-they-did-it-2023-3?inline-endstory-related-recommendations=)
