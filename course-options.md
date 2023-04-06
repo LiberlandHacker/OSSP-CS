@@ -183,11 +183,14 @@ A study of the research on the impact genetics has on one's political views.
 ##### COURSES:
 * [Nation Builder: How to Run for Office](https://nationbuilder.com/course_how_to_run_for_office/?recruiter_id=969659)
 
-#### 🔴 Religion and Skepticism in Society
+#### 🔴 Religion, Rationality, and Skepticism in Society
 
 ##### BOOKS:
 * 1986: Margaret Atwood: The Handmaid's Tale
 * 1997: Carl Sagan: "Billions and Billions: Thoughts on Life and Death at the Brink of the Millenium"
+* 2002: Rick Warren: "The Purpose Driven Life: What On Earth am I Here For?"
+* 2006: Richard Dawkins: "The God Delusion"
+* 2006: André Comte-Sponville: "The Little Book of Atheist Spirituality"
 * 2010: Dan Ariely: "The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home"
 * 2011: Duncan Watts: "Everything Is Obvious: How Common Sense Fails Us"
 
