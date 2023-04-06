@@ -20,12 +20,19 @@ https://automatetheboringstuff.com/
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
-#### 🔴 Construction: How to build a building
+#### 🔴 Construction: How to build a physical structure
 
 ##### BOOKS:
 * 1979: Gaylord and Gaylord: "Structural Engineering Handbook"
 * 1988: The Portland Cement Association: "The Homeowner's Guide to Building with Concrete, Brick, & Stone"
 * 1992: Alth, Alth, and Duncan: "Wells and Septic Systems"
+
+##### PROJECTS
+* Build and test a scale model of an underground bunker.
+  * Construct as if you were a 6cm tall person. Build everything to scale with a ratio of 1cm:1ft. 
+  * Construct the bunker's frame using cement with steel wire. 
+  * Bunker must be dug out from the earth and constructed underground. No open-dropin-close stuff (except for the initial opening to transport dirt out and materials in).
+  * Plan and include potable water supply and septic systems. 
 
 #### 🔴 Economics, Intro to
 ##### BOOKS:
