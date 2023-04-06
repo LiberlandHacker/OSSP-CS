@@ -6,17 +6,16 @@ A course that I have assembled for myself to study **the intersection between "S
 
 ## Readings
 * 201-300 CE: [Kama Sutra](./kama-sutra.txt) by Vatsyayana
-* The Origin of Species by Charles Darwin
-* The Lucifer Principle by Howard Bloom
-* The God Delusion by Richard Dawkins
-* Religious Freedom and the Constitution by Eisgruber & Sager
-* Dreamers and Deceivers by Glenn Beck
-* [Andrews U: Satanic Influences on Disturbed Christians](https://web.archive.org/web/20220713142854/https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1627&context=dmin)
-* Think Big by Donald Trump
-* How to Win Friends and Influence People by Dale Carnegie
-* A Nation of Sheep by Andrew Napolitano (2007)
+* 1909: Charles Darwin: "The Origin of Species"
+* 1936: Dale Carnegie: "How to Win Friends and Influence People"
 * 1976: The Selfish Gene by Richard Dawkins
 * 1992: "The Third Chimpanzee: The Evolution and Future of the Human Animal" by Jared Diamond
+* 1994: [Andrews U: Satanic Influences on Disturbed Christians](https://web.archive.org/web/20220713142854/https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1627&context=dmin)
+* 1995: Howard Bloom: "The Lucifer Principle"
+* 2003: Lance Morrow: "Evil: An Investigation"
+* 2007: Donald Trump: "Think Big: Make it Happen in Business and Life"
+* 2007: Andrew Napolitano: "A Nation of Sheep"
+* 2014: Glenn Beck: "Dreamers and Deceivers: True Stories of the Heroes and Villains Who Made America"
 
 
 ## Research Project
