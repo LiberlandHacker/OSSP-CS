@@ -27,7 +27,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * 2011: Gary Vaynerchuck: "The Thank You Economy"
 
 
-### COMPUTER SCIENCE 🖥
+### 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝚂𝙲𝙸𝙴𝙽𝙲𝙴 🖥
 
 #### 🔴 Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/
@@ -36,9 +36,10 @@ https://automatetheboringstuff.com/
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
 ### ENGINEERING ⚙
+### 𝚳𝚨𝚻𝚮𝚺𝚳𝛬𝚻𝚰₵$ 🧮
 ### NATURAL SCIENCES 🧬
-### HISTORY, LAW, & POLITICAL SCIENCE ⚖
-### RELIGIOUS STUDIES 🛐
+### 𝐇𝐈𝐒𝐓𝐎𝐑𝐘, 𝐋𝐀𝐖, & 𝐏𝐎𝐋𝐈𝐓𝐈𝐂𝐀𝐋 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 ⚖
+### 𝕽𝖊𝖑𝖎𝖌𝖎𝖔𝖚𝖘 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 🛐
 ### SOCIOLOGY 🫂
 
 
