@@ -1,20 +1,63 @@
 # OSSP-CS Transcript for Jonathan A. McCormick, Jr.
 
-| 6-char Code | Department |
-|----------|------------|
-| `BUSNSS` | Business & Economics |
-| `CMPSCI` | Computer Science |
-| `ENGINR` | Engineering |
-| `ENGCOM` | English & Communications |
-| `FITEXR` | Fitness & Exercise Science|
-| `HLAPOL` | History, Law, & Political Science |
-| `MATHMT` | Mathmatics |
-| `PHIREL` | Philosophy & Religious Studies |
-| `SOCIOL` | Sociology |
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.pixabay.com/photo/2013/07/12/18/37/spacewalks-153581_960_720.png" alt="Free Spacewalks Eva vector and picture"/><span>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>6-char Code</th>
+          <th>Department/Category</th>
+        </tr>
+        <tr>
+          <td><code>BUSNSS</code></td>
+          <td>Business & Economics</td>
+        </tr>
+        <tr>
+          <td><code>CMPSCI</code></td>
+          <td>Computer Science</td>
+        </tr>
+        <tr>
+          <td><code>ENGINR</code></td>
+          <td>Engineering</td>
+        </tr>
+        <tr>
+          <td><code>ENGCOM</code></td>
+          <td>English & Communications</td>
+        </tr>
+        <tr>
+          <td><code>FITEXR</code></td>
+          <td>Fitness & Exercise Science</td>
+        </tr>
+        <tr>
+          <td><code>HLAPOL</code></td>
+          <td>History, Law, & Political Science</td>
+        </tr>
+        <tr>
+          <td><code>MATHMT</code></td>
+          <td>Mathematics</td>
+        </tr>
+        <tr>
+          <td><code>PHIREL</code></td>
+          <td>Philosophy & Religious Studies</td>
+        </tr>
+        <tr>
+          <td><code>SOCIOL</code></td>
+          <td>Sociology</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Term 00: Fall 2019
-| Institution      |  Code  | Course Name         |Grade| Course Description |
+![image](https://user-images.githubusercontent.com/67705789/230671923-e037be44-8c5e-467c-a724-7da3b07eae44.png)
+
+| Institution      |Category| Course Name         |Grade| Course Description |
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`ENGLSH`|Transcribing the Self|A| Honors course.|
 |Andrews University|`HLAPOL`|American Government  |A|                |
@@ -23,12 +66,12 @@
 |Andrews University|`HLAPOL`|Western Heritage I   |A-| Honors course.|
 |Andrews University|`PHIREL`|Philosophy, Intro to |B+|                |
 
-Term GPA: 3.73
+Term GPA: `3.73`
 
 ***
 
 ## Term 01: Spring 2020
-| Institution      |  Code  | Course Name         |Grade| Course Description |
+| Institution      |Category| Course Name         |Grade| Course Description |
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`BUSNSS`|Business Law         |A-|                |
 |Andrews University|`ENGCOM`|Voice & Diction     |A|                |
@@ -37,36 +80,36 @@ Term GPA: 3.73
 |Andrews University|`MATHMT`|Applied Statistics, Intro to|A|                |
 |Andrews University|`HLAPOL`|Poli Sci Colloquium  |S|                |
 
-Term GPA: 3.90
+Term GPA: `3.90`
 
 ***
 
 ## Term 02: Summer 2020
-| Institution      |  Code  | Course Name         |Grade| Course Description |
+| Institution      |Category| Course Name         |Grade| Course Description |
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`MATHMT`|Math for the (Mis)Information Age|B+|           |
 
-Term GPA: 3.33
+Term GPA: `3.33`
 
 ***
 
 ## Term 03
-| Institution      | Code | Course Name         |Grade| Course Description |
-|------------------|------|---------------------|-----|--------------------|
-|Y Combinator      |BUSNSS|Startup School       |P|EXPIRED|
-|edX/BerkeleyX     |CMPSCI|Blockchain Technology|P| |
-|Sololearn         |CMPSCI|HTML                 |P|An introduction to HTML|
-|HTB Academy       |CMPSCI|Networking, Intro to |P|An introduction to computer networking|
-|Sololearn         |CMPSCI|Python Core/Python3  |P|An introduction to the Python programming language|
-|Sololearn         |CMPSCI|Python Data Structures|P||
-|freeCodeCamp      |CMPSCI|Responsive Web Design |P||
-|Sololearn         |CMPSCI|SQL                   |P||
-|HTB Academy       |CMPSCI|Web Requests          |P||
-|Reuters/Meta      |ENGCOM|Digital Journalism, Intro to|P||
-|edX/PennX         |HLAPOL|Intellectual Property Law and Policy I|P||
-|Udemy             |MATHMT|Econometrics          |P||
+| Institution      |Category| Course Name         |Grade| Course Description |
+|------------------|--------|---------------------|-----|--------------------|
+|Y Combinator      |`BUSNSS`|Startup School       |P|EXPIRED|
+|edX/BerkeleyX     |`CMPSCI`|Blockchain Technology|P| |
+|Sololearn         |`CMPSCI`|HTML                 |P|An introduction to HTML|
+|HTB Academy       |`CMPSCI`|Networking, Intro to |P|An introduction to computer networking|
+|Sololearn         |`CMPSCI`|Python Core/Python3  |P|An introduction to the Python programming language|
+|Sololearn         |`CMPSCI`|Python Data Structures|P||
+|freeCodeCamp      |`CMPSCI`|Responsive Web Design |P||
+|Sololearn         |`CMPSCI`|SQL                   |P||
+|HTB Academy       |`CMPSCI`|Web Requests          |P||
+|Reuters/Meta      |`ENGCOM`|Digital Journalism, Intro to|P||
+|edX/PennX         |`HLAPOL`|Intellectual Property Law and Policy I|P||
+|Udemy             |`MATHMT`|Econometrics          |P||
 
-Term GPA: Pass
+Term GPA: `Pass`
 
 ***
 
