@@ -16,12 +16,12 @@
 ## Term 00: Fall 2019
 | Institution      | Code        | Course Name         |Grade| Course Description |
 |------------------|-------------|---------------------|-----|--------------------|
-|Andrews University|HLAPOL|Western Heritage I   |A-| Honors course.|
-|Andrews University|ENGLSH|Transcribing the Self|A| Honors course.|
-|Andrews University|PHIREL|Philosophy, Intro to |B+|                |
-|Andrews University|HLAPOL|American Government  |A|                |
-|Andrews University|HLAPOL|HPSC, Intro to       |S|                |
-|Andrews University|HLAPOL|Poli Sci Colloquium  |S|                |
+|Andrews University|`HLAPOL`|Western Heritage I   |A-| Honors course.|
+|Andrews University|`ENGLSH`|Transcribing the Self|A| Honors course.|
+|Andrews University|`PHIREL`|Philosophy, Intro to |B+|                |
+|Andrews University|`HLAPOL`|American Government  |A|                |
+|Andrews University|`HLAPOL`|HPSC, Intro to       |S|                |
+|Andrews University|`HLAPOL`|Poli Sci Colloquium  |S|                |
 
 Term GPA: 3.73
 
