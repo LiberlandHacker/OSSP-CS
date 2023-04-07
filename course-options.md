@@ -18,7 +18,6 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * BOOK: "Finance and Accounting for Entrepreneurs" by Suzanne Caplan
 
 #### 🔴 Customer Acquisition & Retention
-
 ##### BOOKS
 * 1993: Blanchard and Bowles: "Raving Fans: A Revolutionary Approach to Customer Service"
 * 2003: Mark Stevens: "Your Marketing Sucks: see details inside"
@@ -26,6 +25,26 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * 2005: Jeffrey Gitomer's "Little Red Book of Selling"
 * 2011: Gary Vaynerchuck: "The Thank You Economy"
 
+#### 🔴 Economics, Intro to
+##### BOOKS:
+* N. Gregory Mankiw: Essentials of Economics
+* Henry Hazlitt: Economics in One Lesson
+* Milton Friedman: Capitalism and Freedom
+* Alan Mass: The Case for Socialism
+* Marx & Engels: The Communist Manifesto
+##### COURSES
+[MIT OCW: Principles of Microeconomics](https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/)
+
+#### 🔴 Game Theory
+##### COURSES:
+* [Open Yale ECON 159: Game Theory](https://oyc.yale.edu/economics/econ-159)
+* [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
+* [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
+
+#### 🟡 Startup School (updated)
+Y Combinator: Startup School.
+
+***
 
 ### 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝚂𝙲𝙸𝙴𝙽𝙲𝙴 🖥
 
@@ -35,30 +54,53 @@ https://automatetheboringstuff.com/
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
-### 🄴🄽🄶🄸🄽🄴🄴🅁🄸🄽🄶 ⚙
-### 𝚳𝚨𝚻𝚮𝚺𝚳𝛬𝚻𝚰₵$ 🧮
-### 𝗡𝗔𝗧𝗨𝗥𝗔𝗟 𝗦𝗖𝗜𝗘𝗡𝗖𝗘𝗦 🧬
-### 𝐇𝐈𝐒𝐓𝐎𝐑𝐘, 𝐋𝐀𝐖, & 𝐏𝐎𝐋𝐈𝐓𝐈𝐂𝐀𝐋 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 ⚖
-### 𝕽𝖊𝖑𝖎𝖌𝖎𝖔𝖚𝖘 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 🛐
-### ⓈⓄⒸⒾⓄⓁⓄⒼⓎ 🫂
-
-
-
-
-
-
-
-
-#### 🔴 Economics, Intro to
+#### 🔴 Penetration Testing
 ##### BOOKS:
-* N. Gregory Mankiw: Essentials of Economics
-* Henry Hazlitt: Economics in One Lesson
-* Milton Friedman: Capitalism and Freedom
-* Alan Mass: The Case for Socialism
-* Marx & Engels: The Communist Manifesto
+* 2008: Stuttard & Pinto: "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws" 
+* 2017: Wil Allsopp: Advanced Penetration Testing
+##### COURSES:
+* Hack the Box Academy
+* Hack the Box
 
-##### COURSES
-[MIT OCW: Principles of Microeconomics](https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/)
+#### 🔴 Solidity Programming
+##### BOOK: 
+Hands-On Smart Contract Development with Solidity and Ethereum 
+
+***
+
+### 🄴🄽🄶🄸🄽🄴🄴🅁🄸🄽🄶 ⚙
+
+#### 🔴 Make Almost Anything
+* [MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
+
+#### 🔴 Satellite Communications
+##### BOOKS
+* 2008: Steve Ford: "The ARRL Satellite Handbook"
+
+***
+
+### 𝚳𝚨𝚻𝚮𝚺𝚳𝛬𝚻𝚰₵$ 🧮
+
+***
+
+### 𝗡𝗔𝗧𝗨𝗥𝗔𝗟 𝗦𝗖𝗜𝗘𝗡𝗖𝗘𝗦 🧬
+
+#### 🔴 History of Motherhood
+##### BOOK: 
+* Mother Nature: A history of mothers, infants, and natural selection.
+
+#### 🔴 Reproductive Biology
+[MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
+
+#### 🔴 Sperm
+[MIT OCW: The Science of Sperm](https://ocw.mit.edu/courses/7-345-the-science-of-sperm-fall-2014/)
+
+***
+
+### 𝐇𝐈𝐒𝐓𝐎𝐑𝐘, 𝐋𝐀𝐖, & 𝐏𝐎𝐋𝐈𝐓𝐈𝐂𝐀𝐋 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 ⚖
+
+#### 🔴 American Elections
+* [MIT OCW: American Elections](https://ocw.mit.edu/courses/17-263-american-elections-fall-2020/)
 
 #### 🔴 Environment and Public Health
 ##### BOOKS:
@@ -66,62 +108,35 @@ https://automatetheboringstuff.com/
 * James Collman: Naturally Dangerous
 * Smith & Lourie: Slow Death by Rubber Duck
 * John Brockman, et al: What Should We Be Worried About?
-
 ##### COURSES
 * https://www.cdc.gov/nceh/ehs/elearn/ephoc.htm#:~:text=EPHOC%20courses%20are%20free.,minute%20modules%2C%20and%20a%20posttest.
-
-#### 🔴 Game Theory
-##### COURSES:
-* [Open Yale ECON 159: Game Theory](https://oyc.yale.edu/economics/econ-159)
-* [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
-* [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
 
 #### 🔴 Genetics and Political Views
 A study of the research on the impact genetics has on one's political views. 
 
-#### 🔴 Genetics, Intelligence, and Society
-##### BOOKS:
-* 1994: "The Bell Curve: Intelligence and Class Structure in American Life" by Herrnstein & Murray
-* 1995: "The Bell Curve Debate: History, Documents, Opinions" Edited by Jacoby and Glauberman
-* 1995: "The Bell Curve Wars: Race, Intelligence, and the Future of America" Edited by Steven Fraser
-* 2002: "Genetic politics: From eugenics to genome" by Anne Kerr and Tom Shakespeare
+#### 🔴 How to Run for Office
+##### COURSES:
+* [Nation Builder: How to Run for Office](https://nationbuilder.com/course_how_to_run_for_office/?recruiter_id=969659)
 
-#### 🔴 History of Motherhood
-##### BOOK: 
-* Mother Nature: A history of mothers, infants, and natural selection.
+#### 🔴 How to Stage a Revolution
+[MIT OCW: How to Stage a Revolution](https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/)
 
 #### 🔴 Libertarianism in History
 * [MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
-
-#### 🔴 Make Almost Anything
-* [MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
 
 #### 🔴 New Hampshire Law, Intro to
 ##### RESOURCES
 * [NH Laws and Rules](https://www.nh.gov/glance/laws-rules.htm)
 * [NH Courts resources for Students](https://www.courts.nh.gov/students)
 
+***
+
+### 𝕽𝖊𝖑𝖎𝖌𝖎𝖔𝖚𝖘 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 🛐
+
 #### 🔴 Paradise Lost
 * [MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
 
-#### 🔴 Penetration Testing
-##### BOOKS:
-* 2008: Stuttard & Pinto: "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws" 
-* 2017: Wil Allsopp: Advanced Penetration Testing
-
-##### COURSES:
-* Hack the Box Academy
-* Hack the Box
-
-#### 🔴 Politics: American Elections
-* [MIT OCW: American Elections](https://ocw.mit.edu/courses/17-263-american-elections-fall-2020/)
-
-#### 🔴 Politics: How to Run for Office
-##### COURSES:
-* [Nation Builder: How to Run for Office](https://nationbuilder.com/course_how_to_run_for_office/?recruiter_id=969659)
-
 #### 🔴 Religion, Rationality, and Skepticism in Society
-
 ##### BOOKS:
 * 1986: Margaret Atwood: The Handmaid's Tale
 * 1997: Carl Sagan: "Billions and Billions: Thoughts on Life and Death at the Brink of the Millenium"
@@ -132,25 +147,16 @@ A study of the research on the impact genetics has on one's political views.
 * 2011: Duncan Watts: "Everything Is Obvious: How Common Sense Fails Us"
 * 2011: Bart D. Ehrman: "Forged: Writing in the Name of God--Why the Bible's Authors Are Not Who We Think They Are"
 
-#### 🔴 Reproductive Biology
-[MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
-
-#### 🔴 Revolution
-[MIT OCW: How to Stage a Revolution](https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/)
-
 #### 🔴 Satanic Literature
 * [TST Reading List](https://thesatanictemple.com/pages/the-satanic-temple-library?fbclid=IwAR09nQWlfNVmhFbYklsVhXcbDIWaEHOpJTf7b6lNEYsvqhiLQEyVmA8sA1Y)
 * [CoS Reading List](https://www.churchofsatan.com/sources-book-list/)
 
-#### 🔴 Satellite Communications
+***
 
-##### BOOKS
-* 2008: Steve Ford: "The ARRL Satellite Handbook"
+### ⓈⓄⒸⒾⓄⓁⓄⒼⓎ 🫂
 
-#### 🔴 Sociology: Family Structures
-
+#### 🔴 Family Structures
 This course will explore the various types of family structures that exist, including traditional nuclear families, single-parent families, blended families, same-sex parent families, polyamorous families, and more. Students will examine the historical, cultural, and social factors that have influenced the development and prevalence of these structures, and analyze the advantages and disadvantages of each. Additionally, the course will consider innovative concepts and emerging trends that challenge traditional family structures.
-
 ##### COURSE SECTIONS
 1. What is a family?
 2. Nuclear family
@@ -165,14 +171,12 @@ This course will explore the various types of family structures that exist, incl
 8. Polyamorous family
 9. Childless couple
 10. Childless single
-
 ##### BOOKS
 * 1992: Stephanie Coontz: "The Way We Never Were: American Families and the Nostalgia Trap"
 * 1997: Dr. Laura Schlessinger: "Ten Stupid Things Men Do to Mess Up Their Lives"
 * 2015: Patrick and Patrick: "Dude's Guide to Marriage: Ten Skills Every Husband Must Develop to Love His Wife Well"
 * 2017: Hardy and Easton: "The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love"
 * 2021: Chase Tkach: "Sexual Liberty: Memoirs Of A Sex Worker's Fight For Freedom"
-
 ##### ONLINE
 * [Wikipedia: Family](https://en.wikipedia.org/wiki/Family)
 * 2010: [CDC: Family Structure and Children’s Health in the United States](https://www.cdc.gov/nchs/data/series/sr_10/sr10_246.pdf)
@@ -187,15 +191,23 @@ This course will explore the various types of family structures that exist, incl
 * 2022: [Insider: I told my partner I wanted to try being polyamorous. It's changed how we coparent, and how I view our relationship.](https://www.insider.com/polyamory-changed-how-my-partner-and-i-coparent-2022-10)
 * 2023: [Insider: 6 women share why they had affairs, why they don't regret it, and how they didn't get caught](https://www.insider.com/women-share-why-had-affairs-cheating-how-they-did-it-2023-3?inline-endstory-related-recommendations=)
 
-#### 🔴 Solidity
-##### BOOK: 
-Hands-On Smart Contract Development with Solidity and Ethereum 
 
-#### 🔴 Sperm
-[MIT OCW: The Science of Sperm](https://ocw.mit.edu/courses/7-345-the-science-of-sperm-fall-2014/)
+#### 🔴 Genetics, Intelligence, and Society
+##### BOOKS:
+* 1994: "The Bell Curve: Intelligence and Class Structure in American Life" by Herrnstein & Murray
+* 1995: "The Bell Curve Debate: History, Documents, Opinions" Edited by Jacoby and Glauberman
+* 1995: "The Bell Curve Wars: Race, Intelligence, and the Future of America" Edited by Steven Fraser
+* 2002: "Genetic politics: From eugenics to genome" by Anne Kerr and Tom Shakespeare
 
-#### 🟡 Startup School (updated)
-Y Combinator: Startup School.
+***
+
+
+
+
+
+
+
+
 
 
 ## ❤️ Fahrenheit Degree
