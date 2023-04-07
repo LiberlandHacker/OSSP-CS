@@ -48,8 +48,16 @@ Y Combinator: Startup School.
 
 ### 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝚂𝙲𝙸𝙴𝙽𝙲𝙴 🖥
 
-#### 🔴 Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/
+#### 🔴 Automation
+This course is designed to introduce students to the basics of automation and its role in the modern workplace. The course will cover the fundamental concepts of automation and provide an overview of the tools and techniques used in automation.
+##### BOOKS
+* 2018: Larry Boyer: "The Robot in the Next Cubicle: What You Need to Know to Adapt and Succeed in the Automation Age"
+* 2018: Kai-Fu Lee: "AI Superpowers: China, Silicon Valley, and the New World Order"
+* 2020: Al Sweigart: [Automate the Boring Stuff with Python: 2nd Edition](https://automatetheboringstuff.com/2e/chapter0/)
+* 2020: Behrman, Deza, Gheorghiu, & Gift: [Python for DevOps](https://www.betterworldbooks.com/product/detail/python-for-devops-learn-ruthlessly-effective-automation-9781492057697)
+#### TOOLS
+* OpenAI's ChatGPT
+* Python
 
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
