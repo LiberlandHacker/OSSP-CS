@@ -43,13 +43,20 @@
         </tr>
         <tr>
           <td><code>HLAPOL</code></td>
-          <td>History, Law, & Political Science</td>
-          <td>7</td>
+          <td><b>History, Law, & Political Science</b></td>
+          <td><b>7</b></td>
         </tr>
         <tr>
           <td><code>MATHMT</code></td>
           <td>Mathematics</td>
           <td>3</td>
+        </tr>
+        <tr>
+          <b>
+            <td><code>NATSCI</code></td>
+            <td>Natural Sciences</td>
+            <td>0</td>
+          </b>
         </tr>
         <tr>
           <td><code>PHIREL</code></td>
