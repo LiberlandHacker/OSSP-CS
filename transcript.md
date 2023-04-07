@@ -1,6 +1,59 @@
 # OSSP-CS Transcript for Jonathan A. McCormick, Jr.
 
-<table><tr><td><img height=350px src="https://cdn.pixabay.com/photo/2013/07/12/18/37/spacewalks-153581_960_720.png" alt="Free Spacewalks Eva vector and picture"></td><td><table><tr><th>6-char Code</th><th>Department/Category</th></tr><tr><td><code>BUSNSS</code></td><td>Business & Economics</td></tr><tr><td><code>CMPSCI</code></td><td>Computer Science</td></tr><tr><td><code>ENGINR</code></td><td>Engineering</td></tr><tr><td><code>ENGCOM</code></td><td>English & Communications</td></tr><tr><td><code>FITEXR</code></td><td>Fitness & Exercise Science</td></tr><tr><td><code>HLAPOL</code></td><td>History, Law, & Political Science</td></tr><tr><td><code>MATHMT</code></td><td>Mathematics</td></tr><tr><td><code>PHIREL</code></td><td>Philosophy & Religious Studies</td></tr><tr><td><code>SOCIOL</code></td><td>Sociology</td></tr></table></td></tr></table>
+<table>
+  <tr>
+    <td>
+      <img height="350px" src="https://cdn.pixabay.com/photo/2013/07/12/18/37/spacewalks-153581_960_720.png" alt="Free Spacewalks Eva vector and picture">
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>6-char Code</th>
+          <th>Department/Category</th>
+          <th>Number Completed</th>
+        </tr>
+        <tr>
+          <td><code>BUSNSS</code></td>
+          <td>Business & Economics</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td><code>CMPSCI</code></td>
+          <td>Computer Science</td>
+        </tr>
+        <tr>
+          <td><code>ENGINR</code></td>
+          <td>Engineering</td>
+        </tr>
+        <tr>
+          <td><code>ENGCOM</code></td>
+          <td>English & Communications</td>
+        </tr>
+        <tr>
+          <td><code>FITEXR</code></td>
+          <td>Fitness & Exercise Science</td>
+        </tr>
+        <tr>
+          <td><code>HLAPOL</code></td>
+          <td>History, Law, & Political Science</td>
+        </tr>
+        <tr>
+          <td><code>MATHMT</code></td>
+          <td>Mathematics</td>
+        </tr>
+        <tr>
+          <td><code>PHIREL</code></td>
+          <td>Philosophy & Religious Studies</td>
+        </tr>
+        <tr>
+          <td><code>SOCIOL</code></td>
+          <td>Sociology</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 
 
 
