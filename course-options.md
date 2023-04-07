@@ -11,7 +11,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 
 ## Anytime
 
-### BUSINESS 💼
+### Bu$i₪€$$ 💼
 
 #### 🔴 Accounting
 * [MIT OCW: Introduction to Financial and Managerial Accounting](https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/)
@@ -35,12 +35,12 @@ https://automatetheboringstuff.com/
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
-### ENGINEERING ⚙
+### 🄴🄽🄶🄸🄽🄴🄴🅁🄸🄽🄶 ⚙
 ### 𝚳𝚨𝚻𝚮𝚺𝚳𝛬𝚻𝚰₵$ 🧮
-### NATURAL SCIENCES 🧬
+### 𝗡𝗔𝗧𝗨𝗥𝗔𝗟 𝗦𝗖𝗜𝗘𝗡𝗖𝗘𝗦 🧬
 ### 𝐇𝐈𝐒𝐓𝐎𝐑𝐘, 𝐋𝐀𝐖, & 𝐏𝐎𝐋𝐈𝐓𝐈𝐂𝐀𝐋 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 ⚖
 ### 𝕽𝖊𝖑𝖎𝖌𝖎𝖔𝖚𝖘 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 🛐
-### SOCIOLOGY 🫂
+### ⓈⓄⒸⒾⓄⓁⓄⒼⓎ 🫂
 
 
 
