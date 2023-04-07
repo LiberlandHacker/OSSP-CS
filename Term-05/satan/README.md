@@ -16,6 +16,7 @@ A course that I have assembled for myself to study **the intersection between "S
 * 2007: Donald Trump: "Think Big: Make it Happen in Business and Life"
 * 2007: Andrew Napolitano: "A Nation of Sheep"
 * 2014: Glenn Beck: "Dreamers and Deceivers: True Stories of the Heroes and Villains Who Made America"
+* 2018: Lawrence W. Reed: "Are We Good Enough For Liberty?"
 
 
 ## Research Project
