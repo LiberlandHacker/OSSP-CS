@@ -14,37 +14,37 @@
 
 
 ## Term 00: Fall 2019
-| Institution      | Code        | Course Name         |Grade| Course Description |
-|------------------|-------------|---------------------|-----|--------------------|
-|Andrews University|`HLAPOL`|Western Heritage I   |A-| Honors course.|
+| Institution      |  Code  | Course Name         |Grade| Course Description |
+|------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`ENGLSH`|Transcribing the Self|A| Honors course.|
-|Andrews University|`PHIREL`|Philosophy, Intro to |B+|                |
 |Andrews University|`HLAPOL`|American Government  |A|                |
 |Andrews University|`HLAPOL`|HPSC, Intro to       |S|                |
 |Andrews University|`HLAPOL`|Poli Sci Colloquium  |S|                |
+|Andrews University|`HLAPOL`|Western Heritage I   |A-| Honors course.|
+|Andrews University|`PHIREL`|Philosophy, Intro to |B+|                |
 
 Term GPA: 3.73
 
 ***
 
 ## Term 01: Spring 2020
-| Institution      | Code | Course Name         |Grade| Course Description |
-|------------------|------|---------------------|-----|--------------------|
-|Andrews University|BUSNSS|Business Law         |A-|                |
-|Andrews University|ENGCOM|Voice & Diction     |A|                |
-|Andrews University|FITEXR|Self-Defense|A|                |
-|Andrews University|HLAPOL|Western Heritage II  |P|                |
-|Andrews University|MATHMT|Applied Statistics, Intro to|A|                |
-|Andrews University|HLAPOL|Poli Sci Colloquium  |S|                |
+| Institution      |  Code  | Course Name         |Grade| Course Description |
+|------------------|--------|---------------------|-----|--------------------|
+|Andrews University|`BUSNSS`|Business Law         |A-|                |
+|Andrews University|`ENGCOM`|Voice & Diction     |A|                |
+|Andrews University|`FITEXR`|Self-Defense|A|                |
+|Andrews University|`HLAPOL`|Western Heritage II  |P|                |
+|Andrews University|`MATHMT`|Applied Statistics, Intro to|A|                |
+|Andrews University|`HLAPOL`|Poli Sci Colloquium  |S|                |
 
 Term GPA: 3.90
 
 ***
 
 ## Term 02: Summer 2020
-| Institution      | Code | Course Name         |Grade| Course Description |
-|------------------|------|---------------------|-----|--------------------|
-|Andrews University|MATHMT|Math for the (Mis)Information Age|B+|           |
+| Institution      |  Code  | Course Name         |Grade| Course Description |
+|------------------|--------|---------------------|-----|--------------------|
+|Andrews University|`MATHMT`|Math for the (Mis)Information Age|B+|           |
 
 Term GPA: 3.33
 
