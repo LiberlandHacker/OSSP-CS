@@ -12,7 +12,7 @@
         <tr>
           <th>6-char Code</th>
           <th>Department/Category</th>
-          <th>Quantity Completed</th>
+          <th># Completed</th>
         </tr>
         <tr>
           <td><code>BUSNSS</code></td>
@@ -83,7 +83,7 @@
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`ENGCOM`|Transcribing the Self|A| Honors course.|
 |Andrews University|`HLAPOL`|American Government  |A|                |
-|Andrews University|`HLAPOL`|HPSC, Intro to       |S|                |
+|Andrews University|`HLAPOL`|History & Poli Sci, Intro to       |S|                |
 |Andrews University|`HLAPOL`|Poli Sci Colloquium  |S|                |
 |Andrews University|`HLAPOL`|Western Heritage I   |A-| Honors course.|
 |Andrews University|`PHIREL`|Philosophy, Intro to |B+|                |
