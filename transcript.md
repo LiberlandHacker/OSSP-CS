@@ -1,8 +1,6 @@
 
 # OSSP-CS Transcript for Jonathan A. McCormick, Jr.
 
-This is <span style="color:red">red text</span> in Markdown.
-
 ## Course Key
 <table>
   <tr>
@@ -75,6 +73,78 @@ This is <span style="color:red">red text</span> in Markdown.
   </tr>
 </table>
 
+
+## Grades
+Not all courses use the same grading system. 
+
+<table>
+  <tr>
+    <td>
+      <h3>Traditional Letter Grade Scale</h3>
+    </td>
+    <td>
+      <h3>Alternative Letter Grades</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <thead>
+          <tr>
+            <th>Letter</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>A</td>
+            <td>Best possible</td>
+          </tr>
+          <tr>
+            <td>B</td>
+            <td>Mediocre</td>
+          </tr>
+          <tr>
+            <td>C</td>
+            <td>Devastation</td>
+          </tr>
+          <tr>
+            <td>D</td>
+            <td>Despair</td>
+          </tr>
+          <tr>
+            <td>F</td>
+            <td>Worst possible. Fail.</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td>
+      <table>
+        <thead>
+          <tr>
+            <th>Letter</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>P</td>
+            <td>Pass</td>
+          </tr>
+          <tr>
+            <td>F</td>
+            <td>Fail</td>
+          </tr>
+          <tr>
+            <td>W</td>
+            <td>Withdrawn</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
 
