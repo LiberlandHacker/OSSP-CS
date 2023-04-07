@@ -98,23 +98,23 @@ Not all courses use the same grading system.
         <tbody>
           <tr>
             <td>A</td>
-            <td>Best possible</td>
+            <td>Amazing 😍 </td>
           </tr>
           <tr>
             <td>B</td>
-            <td>Mediocre</td>
+            <td>Barely acceptable 😏</td>
           </tr>
           <tr>
             <td>C</td>
-            <td>Devastation</td>
+            <td>Cringeworthy 🫣</td>
           </tr>
           <tr>
             <td>D</td>
-            <td>Despair</td>
+            <td>Devestating 😱</td>
           </tr>
           <tr>
             <td>F</td>
-            <td>Worst possible. Fail.</td>
+            <td>Fail ☠️ </td>
           </tr>
         </tbody>
       </table>
@@ -129,12 +129,16 @@ Not all courses use the same grading system.
         </thead>
         <tbody>
           <tr>
+            <td>F</td>
+            <td>Fail</td>
+          </tr>
+          <tr>
             <td>P</td>
             <td>Pass</td>
           </tr>
           <tr>
-            <td>F</td>
-            <td>Fail</td>
+            <td>S</td>
+            <td>Satisfactory</td>
           </tr>
           <tr>
             <td>W</td>
