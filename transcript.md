@@ -1,6 +1,8 @@
 
 # OSSP-CS Transcript for Jonathan A. McCormick, Jr.
 
+This is <span style="color:red">red text</span> in Markdown.
+
 ## Course Key
 <table>
   <tr>
