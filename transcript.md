@@ -77,6 +77,8 @@
 ## Grades
 Not all courses use the same grading system. 
 
+In case it is useful, here is a handy guide:
+
 <table>
   <tr>
     <td>
@@ -130,19 +132,23 @@ Not all courses use the same grading system.
         <tbody>
           <tr>
             <td>F</td>
-            <td>Fail</td>
+            <td>Fail ☠️</td>
           </tr>
           <tr>
             <td>P</td>
-            <td>Pass</td>
+            <td>Pass 🙂</td>
           </tr>
           <tr>
             <td>S</td>
-            <td>Satisfactory</td>
+            <td>Satisfactory 🙂</td>
+          </tr>
+          <tr>
+            <td>U</td>
+            <td>Unsatisfactory ☠️</td>
           </tr>
           <tr>
             <td>W</td>
-            <td>Withdrawn</td>
+            <td>Withdrawn 😶‍🌫</td>
           </tr>
         </tbody>
       </table>
