@@ -214,9 +214,27 @@ A study of the research on the impact genetics has on one's political views.
 
 This course will explore the various types of family structures that exist, including traditional nuclear families, single-parent families, blended families, same-sex parent families, polyamorous families, and more. Students will examine the historical, cultural, and social factors that have influenced the development and prevalence of these structures, and analyze the advantages and disadvantages of each. Additionally, the course will consider innovative concepts and emerging trends that challenge traditional family structures.
 
+##### COURSE SECTIONS
+1. What is a family?
+2. Nuclear family
+  a. exclusive
+  b. supplemented
+4. Single-parent family
+  a. by chance
+  b. by choice
+5. Blended family
+6. Extended family
+7. Same-sex family
+8. Polyamorous family
+9. Childless couple
+10. Childless single
+
 ##### BOOKS
 * 1992: Stephanie Coontz: "The Way We Never Were: American Families and the Nostalgia Trap"
+* 1997: Dr. Laura Schlessinger: "Ten Stupid Things Men Do to Mess Up Their Lives"
 * 2015: Patrick and Patrick: "Dude's Guide to Marriage: Ten Skills Every Husband Must Develop to Love His Wife Well"
+* 2017: Hardy and Easton: "The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love"
+* 2021: Chase Tkach: "Sexual Liberty: Memoirs Of A Sex Worker's Fight For Freedom"
 
 ##### ONLINE
 * [Wikipedia: Family](https://en.wikipedia.org/wiki/Family)
