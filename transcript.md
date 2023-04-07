@@ -1,5 +1,7 @@
+
 # OSSP-CS Transcript for Jonathan A. McCormick, Jr.
 
+## Course Key
 <table>
   <tr>
     <td>
@@ -10,7 +12,7 @@
         <tr>
           <th>6-char Code</th>
           <th>Department/Category</th>
-          <th>Number Completed</th>
+          <th>Quantity Completed</th>
         </tr>
         <tr>
           <td><code>BUSNSS</code></td>
@@ -18,36 +20,46 @@
           <td>2</td>
         </tr>
         <tr>
-          <td><code>CMPSCI</code></td>
-          <td>Computer Science</td>
+          <b>
+            <td><code>CMPSCI</code></td>
+            <td><b>Computer Science</b></td>
+            <td><b>8</b></td>
+          </b>
         </tr>
         <tr>
           <td><code>ENGINR</code></td>
           <td>Engineering</td>
+          <td>0</td>
         </tr>
         <tr>
           <td><code>ENGCOM</code></td>
           <td>English & Communications</td>
+          <td>3</td>
         </tr>
         <tr>
           <td><code>FITEXR</code></td>
           <td>Fitness & Exercise Science</td>
+          <td>1</td>
         </tr>
         <tr>
           <td><code>HLAPOL</code></td>
           <td>History, Law, & Political Science</td>
+          <td>7</td>
         </tr>
         <tr>
           <td><code>MATHMT</code></td>
           <td>Mathematics</td>
+          <td>3</td>
         </tr>
         <tr>
           <td><code>PHIREL</code></td>
           <td>Philosophy & Religious Studies</td>
+          <td>1</td>
         </tr>
         <tr>
           <td><code>SOCIOL</code></td>
           <td>Sociology</td>
+          <td>0</td>
         </tr>
       </table>
     </td>
@@ -62,7 +74,7 @@
 
 | Institution      |Category| Course Name         |Grade| Course Description |
 |------------------|--------|---------------------|-----|--------------------|
-|Andrews University|`ENGLSH`|Transcribing the Self|A| Honors course.|
+|Andrews University|`ENGCOM`|Transcribing the Self|A| Honors course.|
 |Andrews University|`HLAPOL`|American Government  |A|                |
 |Andrews University|`HLAPOL`|HPSC, Intro to       |S|                |
 |Andrews University|`HLAPOL`|Poli Sci Colloquium  |S|                |
@@ -77,11 +89,12 @@ Term GPA: `3.73`
 | Institution      |Category| Course Name         |Grade| Course Description |
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`BUSNSS`|Business Law         |A-|                |
-|Andrews University|`ENGCOM`|Voice & Diction     |A|                |
-|Andrews University|`FITEXR`|Self-Defense|A|                |
+|Andrews University|`ENGCOM`|Voice & Diction      |A|                |
+|Andrews University|`FITEXR`|Self-Defense         |A|                |
 |Andrews University|`HLAPOL`|Western Heritage II  |P|                |
-|Andrews University|`MATHMT`|Applied Statistics, Intro to|A|                |
 |Andrews University|`HLAPOL`|Poli Sci Colloquium  |S|                |
+|Andrews University|`MATHMT`|Applied Statistics, Intro to|A|                |
+
 
 Term GPA: `3.90`
 
