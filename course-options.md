@@ -182,6 +182,7 @@ This course will explore the various types of family structures that exist, incl
 ##### BOOKS
 * 1992: Stephanie Coontz: "The Way We Never Were: American Families and the Nostalgia Trap"
 * 1997: Dr. Laura Schlessinger: "Ten Stupid Things Men Do to Mess Up Their Lives"
+* 2008: Tristan Taormino: "Opening Up: A Guide to Creating and Sustaining Open Relationships"
 * 2015: Patrick and Patrick: "Dude's Guide to Marriage: Ten Skills Every Husband Must Develop to Love His Wife Well"
 * 2017: Hardy and Easton: "The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love"
 * 2021: Chase Tkach: "Sexual Liberty: Memoirs Of A Sex Worker's Fight For Freedom"
