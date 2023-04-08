@@ -223,45 +223,7 @@ This course will explore the various types of family structures that exist, incl
 ≈ 4-years batchelor's degree
 
 ### 🟥 Term 5
-
-#### 🔴 Internship
-
-Pick 3 companies to apply to.
-
-#### 🔴 Calculus 1B
-
-[MIT Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about).
-
-#### 🔴 UX Design
-
-> [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) *(Note: Android platform)*
-
-#### 🔴 Intro to Web Development
-
-> [Udacity CS253](https://www.udacity.com/course/web-development--cs253)
-
-#### 🔴 Intro to Databases
-
-> [Stanford DB](https://cs.stanford.edu/people/widom/DB-mooc.html)  
-> *or*  
-> [MIT 6.830](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
-
-#### 🔴 Operating Systems
-
-> [UC Berkeley CS162 Youtube](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp) 
-> *or*
-> [UC Berkeley CS162 Course Pages](https://inst.eecs.berkeley.edu/~cs162/archives.html)
-> *or*  
-> [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
-
-#### 🔴 Computer Graphics
-
-> [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)  
-> *or*  
-> [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
-
-
-
+See [./Term-05](./Term-05)
 ### 🟥 Term 6
 
 #### 🔴 Calculus 1C
