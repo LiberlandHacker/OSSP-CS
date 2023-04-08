@@ -7,6 +7,7 @@
 * 1979: Gaylord and Gaylord: "Structural Engineering Handbook"
 * 1988: The Portland Cement Association: "The Homeowner's Guide to Building with Concrete, Brick, & Stone"
 * 1992: Alth, Alth, and Duncan: "Wells and Septic Systems"
+* 2018: Melvin & Guerra-Pujol: "The Legal Environment of Business: A Managerial Approach: *Theory to Practice*, Third Edition": Chapter 23: "Personal Property, Real Property, and Land Use Law"
 
 ##### PROJECT: Mini Underground Bunker
 * Pre-work
