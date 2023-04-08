@@ -161,7 +161,7 @@ In case it is useful, here is a handy guide:
 
 ## Term 00: Fall 2019
 
-| Institution      |Category| Course Name         |Grade| Course Description |
+| Institution      |Category| Course Name         |Grade| Notes |
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`ENGCOM`|Transcribing the Self|A| Honors course.|
 |Andrews University|`HLAPOL`|American Government  |A|                |
@@ -175,7 +175,7 @@ Term GPA: `3.73`
 ***
 
 ## Term 01: Spring 2020
-| Institution      |Category| Course Name         |Grade| Course Description |
+| Institution      |Category| Course Name         |Grade| Notes |
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`BUSNSS`|Business Law         |A-|                |
 |Andrews University|`ENGCOM`|Voice & Diction      |A|                |
@@ -190,7 +190,7 @@ Term GPA: `3.90`
 ***
 
 ## Term 02: Summer 2020
-| Institution      |Category| Course Name         |Grade| Course Description |
+| Institution      |Category| Course Name         |Grade| Notes |
 |------------------|--------|---------------------|-----|--------------------|
 |Andrews University|`MATHMT`|Math for the (Mis)Information Age|B+|           |
 
@@ -199,13 +199,13 @@ Term GPA: `3.33`
 ***
 
 ## Term 03
-| Institution      |Category| Course Name         |Grade| Course Description |
+| Institution      |Category| Course Name         |Grade| Notes |
 |------------------|--------|---------------------|-----|--------------------|
-|Y Combinator      |`BUSNSS`|Startup School       |P|EXPIRED|
+|Y Combinator      |`BUSNSS`|Startup School       |P|Credential expired due to subsequent update to Startup School curriculum.|
 |edX/BerkeleyX     |`CMPSCI`|Blockchain Technology|P| |
-|Sololearn         |`CMPSCI`|HTML                 |P|An introduction to HTML|
-|HTB Academy       |`CMPSCI`|Networking, Intro to |P|An introduction to computer networking|
-|Sololearn         |`CMPSCI`|Python Core/Python3  |P|An introduction to the Python programming language|
+|Sololearn         |`CMPSCI`|HTML                 |P||
+|HTB Academy       |`CMPSCI`|Networking, Intro to |P||
+|Sololearn         |`CMPSCI`|Python Core/Python3  |P||
 |Sololearn         |`CMPSCI`|Python Data Structures|P||
 |freeCodeCamp      |`CMPSCI`|Responsive Web Design |P||
 |Sololearn         |`CMPSCI`|SQL                   |P||
