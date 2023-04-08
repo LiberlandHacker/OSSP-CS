@@ -7,7 +7,72 @@ Pick 3 companies to apply to.
 
 ## 🔴 UX Design
 > [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) *(Note: Android platform)*
+Here is an outline of an Intro UX course:
 
+I. Introduction to UX Design
+
+Definition and history of UX design
+The role of UX designers in product development
+
+II. User Research
+
+Methods for gathering user data (surveys, interviews, observation, etc.)
+Personas and user profiles
+Techniques for analyzing user data
+
+III. Information Architecture
+
+Definition and importance of information architecture
+User flows, sitemaps, and wireframes
+Navigation design
+
+IV. Interaction Design
+
+Designing interactive elements (buttons, forms, menus, etc.)
+Principles of interaction design
+Microinteractions
+
+V. Visual Design
+
+Principles of visual design (color, typography, imagery, etc.)
+Design software (Sketch, Figma, etc.)
+Designing for responsive design
+VI. Accessibility
+
+Definition of accessibility
+
+Designing for accessibility (alt tags, high-contrast designs, etc.)
+
+Testing for accessibility
+
+VII. Usability Testing
+
+Usability testing methods
+
+Interpreting usability test results
+
+Iterating based on usability test feedback
+
+VIII. Final Project
+
+Students will apply UX design principles to create a product (website or app) from scratch, from user research to final design.
+
+Study resources:
+* "Don't Make Me Think" by Steve Krug
+* "The Design of Everyday Things" by Don Norman
+* "Designing for Interaction" by Dan Saffer
+* "The Elements of User Experience" by Jesse James Garrett
+* Nielsen Norman Group website (www.nngroup.com)
+
+Main topics covered:
+
+* UX design principles and practices 
+* User research methods and analysis
+* Information architecture and navigation design
+* Interaction design and microinteractions
+* Visual design principles and design software
+* Accessibility design and testing
+* Usability testing and feedback iteration.
 
 ## 🔴 Intro to Databases
 > [Stanford DB](https://cs.stanford.edu/people/widom/DB-mooc.html)  
