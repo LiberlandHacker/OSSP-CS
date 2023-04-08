@@ -80,16 +80,13 @@ Main topics covered:
 > [MIT 6.830](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
 
 ## 🔴 Operating Systems
-> [UC Berkeley CS162 Youtube](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp) 
-> *or*
-> [UC Berkeley CS162 Course Pages](https://inst.eecs.berkeley.edu/~cs162/archives.html)
-> *or*  
-> [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
+* [UC Berkeley CS162 Youtube](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp) *or*
+* [UC Berkeley CS162 Course Pages](https://inst.eecs.berkeley.edu/~cs162/archives.html) *or*  
+* [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 
 ## 🔴 Computer Graphics
-> [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)  
-> *or*  
-> [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
+* [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) *or*  
+* [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 
 ## 🔴 [Religion: Satanism II: Satan and Human Nature](./satan)
 
