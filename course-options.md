@@ -146,12 +146,17 @@ A study of the research on the impact genetics has on one's political views.
 
 #### 🔴 Religion, Rationality, and Skepticism in Society
 ##### BOOKS:
+* 1967: Richard Wurmbrand: "Tortured for Christ"
 * 1986: Margaret Atwood: The Handmaid's Tale
 * 1997: Carl Sagan: "Billions and Billions: Thoughts on Life and Death at the Brink of the Millenium"
 * 2002: Rick Warren: "The Purpose Driven Life: What On Earth am I Here For?"
+* 2002: Charles Kimball: "When Religion Becomes Evil"
 * 2006: Richard Dawkins: "The God Delusion"
 * 2006: André Comte-Sponville: "The Little Book of Atheist Spirituality"
+* 2008: Jeff Sharlet: "The Family: The Secret Fundamentalism at the Heart of American Power"
 * 2010: Dan Ariely: "The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home"
+* 2010: B. R. Myers: "The Cleanest Race: How North Koreans See Themselves and Why It Matters"
+* 2010: Ayaan Hirsi Ali: "Nomad: From Islam to America: A Personal Journey Through the Clash of Civilizations"
 * 2011: Duncan Watts: "Everything Is Obvious: How Common Sense Fails Us"
 * 2011: Bart D. Ehrman: "Forged: Writing in the Name of God--Why the Bible's Authors Are Not Who We Think They Are"
 
