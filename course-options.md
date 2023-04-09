@@ -139,7 +139,7 @@ A study of the research on the impact genetics has on one's political views.
 
 ***
 
-### 𝕽𝖊𝖑𝖎𝖌𝖎𝖔𝖚𝖘 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 🛐
+### 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞 & 𝕽𝖊𝖑𝖎𝖌𝖎𝖔𝖚𝖘 𝕾𝖙𝖚𝖉𝖎𝖊𝖘 🛐
 
 #### 🔴 Paradise Lost
 * [MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
