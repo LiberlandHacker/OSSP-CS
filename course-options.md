@@ -175,11 +175,11 @@ This course will explore the various types of family structures that exist, incl
 ##### COURSE SECTIONS
 1. What is a family?
 2. Nuclear family
-  a. exclusive
-  b. supplemented
+    1. exclusive
+    2. supplemented
 4. Single-parent family
-  a. by chance
-  b. by choice
+    1. by chance
+    2. by choice
 5. Blended family
 6. Extended family
 7. Same-sex family
