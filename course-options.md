@@ -144,10 +144,11 @@ A study of the research on the impact genetics has on one's political views.
 #### 🔴 Paradise Lost
 * [MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
 
-#### 🔴 Religion, Rationality, and Skepticism in Society
+#### 🔴 Religion, Skepticism, Emotion, and Rationality in Society
 ##### BOOKS:
 * 1967: Richard Wurmbrand: "Tortured for Christ"
 * 1986: Margaret Atwood: The Handmaid's Tale
+* 1990: Carson & Murphey: "Gifted Hands: The Ben Carson Story"
 * 1997: Carl Sagan: "Billions and Billions: Thoughts on Life and Death at the Brink of the Millenium"
 * 2002: Rick Warren: "The Purpose Driven Life: What On Earth am I Here For?"
 * 2002: Charles Kimball: "When Religion Becomes Evil"
@@ -159,6 +160,7 @@ A study of the research on the impact genetics has on one's political views.
 * 2010: Ayaan Hirsi Ali: "Nomad: From Islam to America: A Personal Journey Through the Clash of Civilizations"
 * 2011: Duncan Watts: "Everything Is Obvious: How Common Sense Fails Us"
 * 2011: Bart D. Ehrman: "Forged: Writing in the Name of God--Why the Bible's Authors Are Not Who We Think They Are"
+* 2019: Max Lucado: "How Happiness Happens"
 
 #### 🔴 Satanic Literature
 * [TST Reading List](https://thesatanictemple.com/pages/the-satanic-temple-library?fbclid=IwAR09nQWlfNVmhFbYklsVhXcbDIWaEHOpJTf7b6lNEYsvqhiLQEyVmA8sA1Y)
