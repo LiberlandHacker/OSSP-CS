@@ -206,6 +206,8 @@ This course will explore the various types of family structures that exist, incl
 * 2022: [Insider: Nick Cannon says 'consensual non-monogamy' has made him a better version of himself after being a 'toxic' cheater](https://www.insider.com/nick-cannon-consensual-non-monogamy-transformed-toxic-cheating-2022-7)
 * 2022: [Insider: I told my partner I wanted to try being polyamorous. It's changed how we coparent, and how I view our relationship.](https://www.insider.com/polyamory-changed-how-my-partner-and-i-coparent-2022-10)
 * 2023: [Insider: 6 women share why they had affairs, why they don't regret it, and how they didn't get caught](https://www.insider.com/women-share-why-had-affairs-cheating-how-they-did-it-2023-3?inline-endstory-related-recommendations=)
+* 2023-03-24: [New York Post: I let my husband sleep with other women while I clean our home](https://nypost.com/2023/03/24/i-let-my-husband-sleep-with-other-women-while-i-clean-our-home/?dicbo=v2-OdXUoAP#)
+* 2023-04-07: [New York Post: I made my husband quit porn — some say I’m dramatic but it’s cheating](https://nypost.com/2023/04/07/i-made-my-husband-quit-porn-some-say-im-dramatic-but-its-cheating/)
 
 
 #### 🔴 Genetics, Intelligence, and Society
