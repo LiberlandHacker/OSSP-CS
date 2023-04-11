@@ -202,6 +202,7 @@ This course will explore the various types of family structures that exist, incl
 * 2017-07-05: [Science Daily: Children in single-mother-by-choice families do just as well as those in two-parent families](https://www.sciencedaily.com/releases/2017/07/170705095332.htm)
 * 2018-04-25: [Pew Research: The Changing Profile of Unmarried Parents](https://www.pewresearch.org/social-trends/2018/04/25/the-changing-profile-of-unmarried-parents/)
 * 2019: [Insider: THEN AND NOW: How American families have changed since the early 1900s](https://www.insider.com/how-families-have-changed-then-and-now-america-2019-3)
+* 2021-04-28: [USA Today: Willow Smith details her lifestyle on 'Red Table Talk': What you should know about polyamory](https://www.usatoday.com/story/life/health-wellness/2021/04/28/polyamory-what-to-know-non-monogamous-relationships/7389278002/)
 * 2022-03-24: [Insider: I'm pregnant and single on purpose. Here's why I'm glad I made this choice.](https://www.insider.com/single-and-pregnant-im-glad-i-made-this-choice-2022-3)
 * 2022: [Insider: Nick Cannon says 'consensual non-monogamy' has made him a better version of himself after being a 'toxic' cheater](https://www.insider.com/nick-cannon-consensual-non-monogamy-transformed-toxic-cheating-2022-7)
 * 2022: [Insider: I told my partner I wanted to try being polyamorous. It's changed how we coparent, and how I view our relationship.](https://www.insider.com/polyamory-changed-how-my-partner-and-i-coparent-2022-10)
