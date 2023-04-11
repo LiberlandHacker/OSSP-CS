@@ -4,7 +4,7 @@
 * 🟢 Managing Risk When Driving
 * 🟢 Section Quiz
 * 🟢 The Licensing Process
-* Section Quiz
+* 🟢 Section Quiz
 * Getting Ready to Drive - Getting Acquainted with Your Vehicle
 * Section Quiz
 * Occupant Protection and Vehicle Systems
