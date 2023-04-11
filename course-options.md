@@ -205,9 +205,11 @@ This course will explore the various types of family structures that exist, incl
 * 2022-03-24: [Insider: I'm pregnant and single on purpose. Here's why I'm glad I made this choice.](https://www.insider.com/single-and-pregnant-im-glad-i-made-this-choice-2022-3)
 * 2022: [Insider: Nick Cannon says 'consensual non-monogamy' has made him a better version of himself after being a 'toxic' cheater](https://www.insider.com/nick-cannon-consensual-non-monogamy-transformed-toxic-cheating-2022-7)
 * 2022: [Insider: I told my partner I wanted to try being polyamorous. It's changed how we coparent, and how I view our relationship.](https://www.insider.com/polyamory-changed-how-my-partner-and-i-coparent-2022-10)
+* 2022-10-05: [USA Today: Is an open relationship right for you?](https://www.usatoday.com/story/life/2022/10/05/sex-relationship-advice-open-relationship-right-you/8174562001/)
 * 2023: [Insider: 6 women share why they had affairs, why they don't regret it, and how they didn't get caught](https://www.insider.com/women-share-why-had-affairs-cheating-how-they-did-it-2023-3?inline-endstory-related-recommendations=)
 * 2023-03-24: [New York Post: I let my husband sleep with other women while I clean our home](https://nypost.com/2023/03/24/i-let-my-husband-sleep-with-other-women-while-i-clean-our-home/?dicbo=v2-OdXUoAP#)
 * 2023-04-07: [New York Post: I made my husband quit porn — some say I’m dramatic but it’s cheating](https://nypost.com/2023/04/07/i-made-my-husband-quit-porn-some-say-im-dramatic-but-its-cheating/)
+* 2023-04-11: [USA Today: What is polyamory? What to know about poly relationships.](https://www.usatoday.com/story/life/health-wellness/2023/04/11/polyamorous-definition-poly-relationships/11577348002/)
 
 
 #### 🔴 Genetics, Intelligence, and Society
