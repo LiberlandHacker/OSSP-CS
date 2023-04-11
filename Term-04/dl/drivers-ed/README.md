@@ -3,7 +3,7 @@
 * 🟢 Introduction - How to Drive
 * 🟢 Managing Risk When Driving
 * 🟢 Section Quiz
-* The Licensing Process
+* 🟢 The Licensing Process
 * Section Quiz
 * Getting Ready to Drive - Getting Acquainted with Your Vehicle
 * Section Quiz
