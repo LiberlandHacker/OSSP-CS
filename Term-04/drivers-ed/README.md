@@ -16,17 +16,17 @@
     2. Freedom!	
     3. Driving is a Privilege	
     4. With Independence Comes Responsibility	
-    3.5 Face the Consequences	
+    5. Face the Consequences	
 4. Section 3
-    4.1 Working with Your Parents	
-    4.2 Observe Your Parents	
-    4.3 Make the Most of Their Experiences	
-    4.4 Educate Your Parents	
-    4.5 Parent-Teen Driving Agreement	
+    1. Working with Your Parents	
+    2. Observe Your Parents	
+    3. Make the Most of Their Experiences	
+    4. Educate Your Parents	
+    5. Parent-Teen Driving Agreement	
 5. Section 4
-    5.1 Why Teens Crash	
-    5.2 Collisions Happen	
-    5.3 Key Reasons	
-    5.4 Number One Killer of Teens	
+    1. Why Teens Crash	
+    2. Collisions Happen	
+    3. Key Reasons	
+    4. Number One Killer of Teens	
 6. Conclusion
-    6.1 Lane Ends
+    1. Lane Ends
