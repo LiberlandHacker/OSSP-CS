@@ -12,7 +12,7 @@
 * 🟢 Vehicle Space, Needs, Natural Laws & Balance
 * 🟢 Section Quiz
 * 🟢 Traffic Control Devices - Signs, Signals and Road Markings
-* Section Quiz
+* 🟢 Section Quiz
 * Administrative Laws & Rules of the Road
 * Section Quiz
 * Traffic Control Laws, Vehicle Operation Laws
