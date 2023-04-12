@@ -7,8 +7,8 @@
 * 🟢 Section Quiz
 * 🟢 Getting Ready to Drive - Getting Acquainted with Your Vehicle
 * 🟢 Section Quiz
-* Occupant Protection and Vehicle Systems
-* Section Quiz
+* 🟢 Occupant Protection and Vehicle Systems
+* 🟢 Section Quiz
 * Vehicle Space, Needs, Natural Laws & Balance
 * Section Quiz
 * Traffic Control Devices - Signs, Signals and Road Markings
