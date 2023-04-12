@@ -106,6 +106,13 @@ Main topics covered:
   * [LYFE Accounting](https://www.youtube.com/@LYFEAccounting)
   * [Nomad Capitalist](https://www.youtube.com/@nomadcapitalist)
   * [The Business Guy](https://www.youtube.com/@TheBusinessGuy)
+### PROJECTS
+* Write articles for Liberland Press
+  * How to incorporate in Liberland as a U.S. Person
+  * How to dissolve a Liberland company owned by a U.S. person
+  * An American's Guide to Liberland Partnerships
+  * An American-Liberlandian's Guide to Form 5471
+  * An American-Liberlandian's Guide to Form 8858
   
 ## 🟡 [WikiTree](./WikiTree)
 How to build my family tree on WikiTree. 
