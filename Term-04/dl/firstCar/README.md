@@ -28,7 +28,9 @@
 ### Top USED options
 #### Any of the above, but used instead of new.
 #### Decommissioned police vehicles
-Bid on auctions. 
+1. Talk with BPD and WCS about any special considerations that must be made when obtaining and operating a decommissioned law enforcement vehicle. 
+2. Familiarize yourself with what's out there.
+3. Bid on auctions. Make offers to sellers. 
 
 ### Color
 Black
