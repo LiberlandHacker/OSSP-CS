@@ -7,18 +7,31 @@
 * Fuel efficiency
 * Affordability
 
-### Top options based on my priorities
+### Top NEW options based on my priorities
 #### Toyota
-|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Starting Price (USD)|
-|-----|--------|-----------|------|-----|----|--|
-|2023|[Corolla Hybrid LE](https://www.toyota.com/corollahybrid/)|53|46|2,850|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)|22,800|
-|2023|[Corolla Hybrid XLE](https://www.toyota.com/corollahybrid/)|53|46|2,850?|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)|26,600|
-|2023|[Corolla Hybrid SE](https://www.toyota.com/corollahybrid/)|47|41|2,850?|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)|26,640|
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Reliability|Starting Price (USD)|
+|-----|--------|-----------|------|-----|----|--|--|
+|2023|[Corolla Hybrid LE](https://www.toyota.com/corollahybrid/)|53 MPG|46 MPG|2,850 lbs|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)||22,800|
+|2023|[Corolla Hybrid XLE](https://www.toyota.com/corollahybrid/)|53 MPG|46 MPG|2,850? lbs|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)||26,600|
+|2023|[Corolla Hybrid SE](https://www.toyota.com/corollahybrid/)|47 MPG|41 MPG|2,850? lbs|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)||26,640|
 
 #### Honda
-|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Starting Price (USD)|
-|-----|--------|-----------|------|-----|----|--|
-|2023|[2023 Civic](https://automobiles.honda.com/civic-sedan)|||2,877 - 3,102|||
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Reliability|Starting Price (USD)|
+|-----|--------|-----------|------|-----|----|--|--|
+|2023|[2023 Civic](https://automobiles.honda.com/civic-sedan)|||2,877 - 3,102 lbs||||
+
+#### Volkswagen
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Reliability|Starting Price (USD)|
+|-----|--------|-----------|------|-----|----|--|--|
+|2023|[Jetta](https://www.vw.com/en/models/jetta.html)|29 MPG|42 MPG| lbs||||
+
+### Top USED options
+#### Any of the above, but used instead of new.
+#### Decommissioned police vehicles
+Bid on auctions. 
+
+### Color
+Black
 
 ## 📹 Surveillance cameras
 ### 1. Front windshield 
@@ -40,6 +53,10 @@
   * Tanto
   * Karambit
   * Bowie 
+* Tactical Flashlight
+* Elecricity Weapons
+  * Stun gun
+  * Taser 
 ### Weapon Location
 * Store all weapons FAR AWAY from where license, registration, and proof of insurance are located.
 * Find hidden areas where they can still be rapidly drawn in the event of a security crisis.
