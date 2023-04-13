@@ -18,6 +18,10 @@ Protect
 * Seats
 * Floors
 
+## Legal self-defense tool(s) 
+* CCW
+* Reflex Protect Presidia Gel (have Reflex Remove as well if you have this)
+
 ## Emergency Prep Kit
 It's always a good idea to keep emergency supplies in your car, including 
 * a first-aid kit, 
