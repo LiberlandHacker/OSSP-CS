@@ -18,7 +18,7 @@
 #### Honda
 |Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Starting Price (USD)|
 |-----|--------|-----------|------|-----|----|--|
-|2023|[2023 Civic](https://automobiles.honda.com/civic-sedan)||||||
+|2023|[2023 Civic](https://automobiles.honda.com/civic-sedan)|||2,877 - 3,102|||
 
 ## Surveillance cameras
 ### 1. Front windshield 
