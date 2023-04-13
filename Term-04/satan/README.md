@@ -77,6 +77,9 @@ Use this template for each faction's respective score plots.
 
 ### Conspiracy theories regarding Satanism.
 
+#### Satanic Panic
+* [KSAT: Explaining satanic panic: South Texas Crime Stories](https://www.ksat.com/news/local/2022/10/18/explaining-satanic-panic-south-texas-crime-stories/)
+
 ### [Satan in pop culture](./pop-culture)
 
 ### Write and record a [Satanic hymn](./satanic-hymn)
