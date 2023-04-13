@@ -5,6 +5,15 @@
 * Safety
 * Reliability
 * Fuel efficiency
+* Affordability
+
+### Top options based on my priorities
+#### Toyota
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Starting Price (USD)|Link|
+|-----|--------|-----------|------|-----|----|--|
+|2023|Corolla Hybrid LE|53|46|2,850|22,800|https://www.toyota.com/corollahybrid/|
+
+#### Honda
 
 ## Surveillance cameras
 ### 1. Front windshield 
