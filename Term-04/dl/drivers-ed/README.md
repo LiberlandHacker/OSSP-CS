@@ -15,8 +15,8 @@
 * 🟢 Section Quiz
 * 🟢 Administrative Laws & Rules of the Road
 * 🟢 Section Quiz
-* Traffic Control Laws, Vehicle Operation Laws
-* Section Quiz
+* 🟢 Traffic Control Laws, Vehicle Operation Laws
+* 🟢 Section Quiz
 * Driver Condition Laws
 * Section Quiz
 * Managing Visibility, Time & Space - Vision and Perception
