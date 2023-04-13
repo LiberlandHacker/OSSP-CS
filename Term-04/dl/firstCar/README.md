@@ -9,9 +9,9 @@
 
 ### Top options based on my priorities
 #### Toyota
-|Year|Model|MPG City|MPG Highway|Weight (lbs)|Starting Price (USD)|Link|
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Starting Price (USD)|
 |-----|--------|-----------|------|-----|----|--|
-|2023|Corolla Hybrid LE|53|46|2,850|22,800|https://www.toyota.com/corollahybrid/|
+|2023|[Corolla Hybrid LE](https://www.toyota.com/corollahybrid/)|53|46|2,850|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)|22,800|
 
 #### Honda
 
