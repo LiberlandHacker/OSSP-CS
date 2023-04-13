@@ -1,6 +1,10 @@
 # Plan for My Ideal Car
 
 ## Make & Model
+### Priorities
+* Safety
+* Reliability
+* Fuel efficiency
 
 ## Surveillance cameras
 ### 1. Front windshield 
@@ -9,6 +13,11 @@
 * Shows the driver and the driver-side window.
 * Useful for recording interactions with law enforcement. 
 
+## Covers
+Protect 
+* Seats
+* Floors
+
 ## Emergency Prep Kit
 It's always a good idea to keep emergency supplies in your car, including 
 * a first-aid kit, 
@@ -16,7 +25,8 @@ It's always a good idea to keep emergency supplies in your car, including
 * blanket,
 * water,
 * non-perishable snacks, 
-* breakdown warning triangles
+* breakdown warning triangles,
+* road atlas,
 
 Additionally, consider keeping 
 * a spare tire, 
