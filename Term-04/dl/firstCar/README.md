@@ -12,6 +12,8 @@
 |Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Starting Price (USD)|
 |-----|--------|-----------|------|-----|----|--|
 |2023|[Corolla Hybrid LE](https://www.toyota.com/corollahybrid/)|53|46|2,850|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)|22,800|
+|2023|[Corolla Hybrid XLE](https://www.toyota.com/corollahybrid/)|53|46|2,850?|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)|26,600|
+|2023|[Corolla Hybrid SE](https://www.toyota.com/corollahybrid/)|47|41|2,850?|[Top Safety Pick](https://www.iihs.org/ratings/vehicle/toyota/corolla-4-door-sedan/2023)|26,640|
 
 #### Honda
 
