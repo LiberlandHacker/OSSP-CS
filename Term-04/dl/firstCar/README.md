@@ -51,6 +51,25 @@ Additionally, consider keeping
 * tire jack, and
 * tire iron in your car.
 
+## Plants
+Having plants can be an important way to prevent the buildup of toxic chemicals in the air. 
+
+[NASA Clean Air Study](https://ntrs.nasa.gov/api/citations/19930073077/downloads/19930073077.pdf)
+
+### Plant Containers
+Shop around or build your own modified plant containers that are optimized for car travel
+
+### Plant Locations
+With any location, take measures to prevent unintended "missiles" and to prevent unintended obstructions of vision. 
+* Cup holders
+* Rear seat floor
+* Rear deck
+
+### Plant types
+* Devil's Ivy
+* Spider Plant
+* Snake Plant
+
 ## Set schedules
 ### Maintenance
 Regular maintenance is essential to keep your car running smoothly. Follow the manufacturer's 
@@ -60,3 +79,8 @@ includes oil changes, tire rotations, brake inspections, and fluid checks.
 ### Cameras 
 * Batteries
 * Video/audio quality check
+
+### Plant care
+* Watering
+* Pruning
+* Fertilizer
