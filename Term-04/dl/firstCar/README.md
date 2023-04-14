@@ -72,6 +72,7 @@ It's always a good idea to keep emergency supplies in your car, including
 * non-perishable snacks, 
 * breakdown warning triangles,
 * road atlas,
+* Duct tape,
 
 Additionally, consider keeping 
 * a spare tire, 
