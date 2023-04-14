@@ -66,13 +66,14 @@ Black
 ## ⛑ Emergency Prep Kit
 It's always a good idea to keep emergency supplies in your car, including 
 * a first-aid kit, 
+* fire extinguisher,
 * flashlight,
 * blanket,
 * water,
 * non-perishable snacks, 
 * breakdown warning triangles,
 * road atlas,
-* Duct tape,
+* duct tape,
 
 Additionally, consider keeping 
 * a spare tire, 
