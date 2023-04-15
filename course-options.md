@@ -78,6 +78,9 @@ Hands-On Smart Contract Development with Solidity and Ethereum
 
 ### 🄴🄽🄶🄸🄽🄴🄴🅁🄸🄽🄶 ⚙
 
+#### HAM Radio, Intro to
+* [ARRL Courses](http://www.arrl.org/online-course-catalog)
+
 #### 🔴 Make Almost Anything
 * [MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
 
