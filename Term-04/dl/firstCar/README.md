@@ -26,6 +26,8 @@
 |2023|[Jetta](https://www.vw.com/en/models/jetta.html)|29 MPG|42 MPG| lbs||||
 
 ### Top USED options
+With any used vehicle, it is important to take certain additional steps:
+1. Have a pre-purchase inpection by a qualified auto mechanic. 
 #### Any of the above, but used instead of new.
 #### Decommissioned police vehicles
 1. Talk with BPD and WCS about any special considerations that must be made when obtaining and operating a decommissioned law enforcement vehicle. 
@@ -52,7 +54,8 @@
     2. Watch local used car dealerships
     3. Watch auction sites
         * [GSA Auctions](https://gsaauctions.gov/?footer=gsa.gov)
-        * GovDeals.com
+        * [GovDeals.com](https://www.govdeals.com/)
+        * [Ron Tate Auto](https://www.rontateauto.com/newandusedcars)
 3. Bid on auctions. Make offers to sellers. 
 
 ### Color
