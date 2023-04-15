@@ -62,6 +62,27 @@ With any used vehicle, it is important to take certain additional steps:
     * Was this vehicle used as a patrol car or an administrative vehicle?
     * Do the seller's statemnents line up with the agency's story?
 4. Bid on auctions. Make offers to sellers. 
+##### Types
+###### Ford
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Reliability|Starting Price (USD)|
+|-----|--------|-----------|------|-----|----|--|--|
+||(Explorer) Police Interceptor Utility|||||||
+||Crown Victoria Police Interceptor|||||||
+|||||||||
+|||||||||
+
+###### Chevrolet
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Reliability|Starting Price (USD)|
+|-----|--------|-----------|------|-----|----|--|--|
+||Impala|||||||
+|||||||||
+|||||||||
+
+###### Dodge
+|Year|Model|MPG City|MPG Highway|Weight (lbs)|Safety|Reliability|Starting Price (USD)|
+|-----|--------|-----------|------|-----|----|--|--|
+||Charger|||||||
+|||||||||
 
 ##### Bonuses for Decommissioned Cop Cars
 * Attach a printout/mask of a [celebrity](https://www.imdb.com/list/ls092272367/)'s face with sunglasses to the passenger head restraint. 
