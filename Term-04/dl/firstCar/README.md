@@ -57,7 +57,11 @@ With any used vehicle, it is important to take certain additional steps:
         * [GovDeals.com](https://www.govdeals.com/)
         * [Ron Tate Auto](https://www.rontateauto.com/newandusedcars)
         * Craigslist
-3. Bid on auctions. Make offers to sellers. 
+3. Verify seller info
+    * Check with the law enforcement agency that it came from. 
+    * Was this vehicle used as a patrol car or an administrative vehicle?
+    * Do the seller's statemnents line up with the agency's story?
+4. Bid on auctions. Make offers to sellers. 
 
 ##### Bonuses for Decommissioned Cop Cars
 * Attach a printout/mask of a [celebrity](https://www.imdb.com/list/ls092272367/)'s face with sunglasses to the passenger head restraint. 
