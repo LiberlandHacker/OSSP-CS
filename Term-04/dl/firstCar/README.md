@@ -59,7 +59,7 @@ With any used vehicle, it is important to take certain additional steps:
         * Craigslist
 3. Verify seller info
     * Check with the law enforcement agency that it came from. 
-    * Was this vehicle used as a patrol car or an administrative vehicle?
+    * [VIDEO: Was this vehicle used as a patrol car or an administrative vehicle? Clues to look for.](https://youtu.be/uxqTbyGGWPo)
     * Do the seller's statemnents line up with the agency's story?
 4. Bid on auctions. Make offers to sellers. 
 ##### Types
