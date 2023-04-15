@@ -59,6 +59,9 @@ With any used vehicle, it is important to take certain additional steps:
         * Craigslist
 3. Bid on auctions. Make offers to sellers. 
 
+##### Bonuses for Decommissioned Cop Cars
+* Attach a printout/mask of a celebrity's face with sunglasses to the passenger head restraint. 
+
 ### Color
 Black
 
