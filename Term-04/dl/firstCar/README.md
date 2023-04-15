@@ -30,6 +30,29 @@
 #### Decommissioned police vehicles
 1. Talk with BPD and WCS about any special considerations that must be made when obtaining and operating a decommissioned law enforcement vehicle. 
 2. Familiarize yourself with what's out there.
+    1. Stay in touch with nearby law enforcement agencies to be the first to find the deals
+        * Bartlesville PD
+        * Washington County Sheriff
+        * Nowata PD
+        * Nowata County Sheriff
+        * Pawhuska PD
+        * Osage County Sheriff
+        * Osage Nation Police Department
+        * Independence PD
+        * Coffeyville PD
+        * South Coffeyville PD
+        * Montgomery County (KS) Sheriff
+        * Chautauqua County (KS) Sheriff
+        * Labette County (KS) Sheriff
+        * Owasso PD
+        * Rogers County Sheriff
+        * Tulsa PD
+        * Tulsa County Sheriff
+        * OK Highway Patrol
+    2. Watch local used car dealerships
+    3. Watch auction sites
+        * [GSA Auctions](https://gsaauctions.gov/?footer=gsa.gov)
+        * GovDeals.com
 3. Bid on auctions. Make offers to sellers. 
 
 ### Color
