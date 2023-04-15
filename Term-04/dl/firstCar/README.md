@@ -56,6 +56,7 @@ With any used vehicle, it is important to take certain additional steps:
         * [GSA Auctions](https://gsaauctions.gov/?footer=gsa.gov)
         * [GovDeals.com](https://www.govdeals.com/)
         * [Ron Tate Auto](https://www.rontateauto.com/newandusedcars)
+        * Craigslist
 3. Bid on auctions. Make offers to sellers. 
 
 ### Color
