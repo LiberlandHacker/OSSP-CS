@@ -87,7 +87,16 @@ With any used vehicle, it is important to take certain additional steps:
 ##### Bonuses for Decommissioned Cop Cars
 * Attach a printout/mask of a [celebrity](https://www.imdb.com/list/ls092272367/)'s face with sunglasses to the passenger head restraint. 
 * Create a custom front plate cover design.
+
+
 ![image](https://user-images.githubusercontent.com/67705789/232258512-30141f18-54b7-4943-941f-0f4b9203b58b.png)
+
+
+* Create custom side decals to raise awareness of your services.
+
+
+<img src="https://user-images.githubusercontent.com/67705789/232258810-3ededb6f-aceb-44da-8ff8-593388502d22.png" width=50%><img src="https://user-images.githubusercontent.com/67705789/232258817-c9d4983d-15ce-422d-b533-8e123cc60d8e.png" width=50%>
+
 
 
 ### Color
