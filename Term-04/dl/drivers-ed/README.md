@@ -17,8 +17,8 @@
 * 🟢 Section Quiz
 * 🟢 Traffic Control Laws, Vehicle Operation Laws
 * 🟢 Section Quiz
-* Driver Condition Laws
-* Section Quiz
+* 🟢 Driver Condition Laws
+* 🟢 Section Quiz
 * Managing Visibility, Time & Space - Vision and Perception
 * Section Quiz
 * Selective Searching
