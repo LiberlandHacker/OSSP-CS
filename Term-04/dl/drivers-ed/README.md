@@ -19,8 +19,8 @@
 * 🟢 Section Quiz
 * 🟢 Driver Condition Laws
 * 🟢 Section Quiz
-* Managing Visibility, Time & Space - Vision and Perception
-* Section Quiz
+* 🟢 Managing Visibility, Time & Space - Vision and Perception
+* 🟢 Section Quiz
 * Selective Searching
 * Section Quiz
 * Space to the Front, Side and Rear
