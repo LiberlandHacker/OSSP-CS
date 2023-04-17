@@ -21,8 +21,8 @@
 * 🟢 Section Quiz
 * 🟢 Managing Visibility, Time & Space - Vision and Perception
 * 🟢 Section Quiz
-* Selective Searching
-* Section Quiz
+* 🟢 Selective Searching
+* 🟢 Section Quiz
 * Space to the Front, Side and Rear
 * Section Quiz
 * Using Space to Minimize Risk
