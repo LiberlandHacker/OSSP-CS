@@ -27,8 +27,8 @@
 * 🟢 Section Quiz
 * 🟢 Using Space to Minimize Risk
 * 🟢 Section Quiz
-* Basic Maneuvers - Steering and Accelerating
-* Section Quiz
+* 🟢 Basic Maneuvers - Steering and Accelerating
+* 🟢 Section Quiz
 * Braking and Backing
 * Section Quiz
 * Changing Lanes and Turning
