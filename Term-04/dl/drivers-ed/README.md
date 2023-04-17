@@ -25,8 +25,8 @@
 * 🟢 Section Quiz
 * 🟢 Space to the Front, Side and Rear
 * 🟢 Section Quiz
-* Using Space to Minimize Risk
-* Section Quiz
+* 🟢 Using Space to Minimize Risk
+* 🟢 Section Quiz
 * Basic Maneuvers - Steering and Accelerating
 * Section Quiz
 * Braking and Backing
