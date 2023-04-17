@@ -29,8 +29,8 @@
 * 🟢 Section Quiz
 * 🟢 Basic Maneuvers - Steering and Accelerating
 * 🟢 Section Quiz
-* Braking and Backing
-* Section Quiz
+* 🟢 Braking and Backing
+* 🟢 Section Quiz
 * Changing Lanes and Turning
 * Section Quiz
 * Parking
