@@ -60,6 +60,11 @@ With any used vehicle, it is important to take certain additional steps:
 3. Verify seller info
     * Check with the law enforcement agency that it came from. 
     * [VIDEO: Was this vehicle used as a patrol car or an administrative vehicle? Clues to look for.](https://youtu.be/uxqTbyGGWPo)
+    * Does the car have standard safety features?
+      * ABS
+      * Seat belts
+      * Airbags
+      * Bullet-resistant doors 
     * Do the seller's statemnents line up with the agency's story?
 4. Bid on auctions. Make offers to sellers. 
 ##### Types
