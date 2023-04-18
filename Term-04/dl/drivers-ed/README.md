@@ -31,8 +31,8 @@
 * 🟢 Section Quiz
 * 🟢 Braking and Backing
 * 🟢 Section Quiz
-* Changing Lanes and Turning
-* Section Quiz
+* 🟢 Changing Lanes and Turning
+* 🟢 Section Quiz
 * Parking
 * Section Quiz
 * Sharing the Roadway with Others - Relating to Other Drivers
