@@ -37,8 +37,8 @@
 * 🟢 Section Quiz
 * 🟢 Sharing the Roadway with Others - Relating to Other Drivers
 * 🟢 Section Quiz
-* Other Road Users
-* Section Quiz
+* 🟢 Other Road Users
+* 🟢 Section Quiz
 * Intersections and Railroad Crossings
 * Section Quiz
 * Interchanges and Passing Other Vehicles
