@@ -149,6 +149,7 @@ It's always a good idea to keep emergency supplies in your car, including
 * breakdown warning triangles,
 * road atlas,
 * duct tape,
+* white cloth (for signaling traffic emergency)
 
 Additionally, consider keeping 
 * a spare tire, 
