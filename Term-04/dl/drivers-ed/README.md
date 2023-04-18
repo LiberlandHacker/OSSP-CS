@@ -47,8 +47,8 @@
 * 🟢 Section Quiz
 * 🟢 Alcohol and Its Effects
 * 🟢 Section Quiz
-* Alcohol Elimination, and Refusal
-* Section Quiz
+* 🟢 Alcohol Elimination, and Refusal
+* 🟢 Section Quiz
 * Effects of Illness, Disabilities, Drugs
 * Section Quiz
 * Distracted Driving
