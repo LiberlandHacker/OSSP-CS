@@ -41,8 +41,8 @@
 * 🟢 Section Quiz
 * 🟢 Intersections and Railroad Crossings
 * 🟢 Section Quiz
-* Interchanges and Passing Other Vehicles
-* Section Quiz
+* 🟢 Interchanges and Passing Other Vehicles
+* 🟢 Section Quiz
 * Alternative Transportation
 * Section Quiz
 * Alcohol and Its Effects
