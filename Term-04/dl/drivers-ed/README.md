@@ -51,8 +51,8 @@
 * 🟢 Section Quiz
 * 🟢 Effects of Illness, Disabilities, Drugs
 * 🟢 Section Quiz
-* Distracted Driving
-* Section Quiz
+* 🟢 Distracted Driving
+* 🟢 Section Quiz
 * Drowsy Driving
 * Section Quiz
 * Emotions
