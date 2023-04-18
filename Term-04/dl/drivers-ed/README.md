@@ -33,8 +33,8 @@
 * 🟢 Section Quiz
 * 🟢 Changing Lanes and Turning
 * 🟢 Section Quiz
-* Parking
-* Section Quiz
+* 🟢 Parking
+* 🟢 Section Quiz
 * Sharing the Roadway with Others - Relating to Other Drivers
 * Section Quiz
 * Other Road Users
