@@ -35,8 +35,8 @@
 * 🟢 Section Quiz
 * 🟢 Parking
 * 🟢 Section Quiz
-* Sharing the Roadway with Others - Relating to Other Drivers
-* Section Quiz
+* 🟢 Sharing the Roadway with Others - Relating to Other Drivers
+* 🟢 Section Quiz
 * Other Road Users
 * Section Quiz
 * Intersections and Railroad Crossings
