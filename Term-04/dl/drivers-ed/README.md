@@ -43,8 +43,8 @@
 * 🟢 Section Quiz
 * 🟢 Interchanges and Passing Other Vehicles
 * 🟢 Section Quiz
-* Alternative Transportation
-* Section Quiz
+* 🟢 Alternative Transportation
+* 🟢 Section Quiz
 * Alcohol and Its Effects
 * Section Quiz
 * Alcohol Elimination, and Refusal
