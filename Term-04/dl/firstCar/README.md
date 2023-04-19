@@ -143,7 +143,7 @@ It's always a good idea to keep emergency supplies in your car, including
 * a first-aid kit, 
 * fire extinguisher,
 * flashlight,
-* blanket,
+* blanket + small pillow (for roadside sleep, when needed)
 * water,
 * non-perishable snacks, 
 * breakdown warning triangles,
