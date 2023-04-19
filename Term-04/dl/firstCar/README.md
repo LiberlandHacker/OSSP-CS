@@ -2,7 +2,7 @@
 
 ## [🚗 Make & Model](./make-and-model.md)
 
-## [📹 Surveillance cameras](./surveillance-cameras)
+## [📹 Surveillance cameras](./surveillance-cameras.md)
 
 ## 🧥 Covers 
 * Waterproof seat covers
@@ -11,22 +11,7 @@
 ## Sunglasses
 Useful for driving at sunrise or sunset
 
-## ⚔ Legal self-defense tool(s) 
-### Types of weapons
-* CCW Firearm
-* Reflex Protect Presidia Gel (have Reflex Remove on hand as well if you have Reflex Protect)
-* Fixed blade
-  * Dagger
-  * Tanto
-  * Karambit
-  * Bowie 
-* Tactical Flashlight
-* Elecricity Weapons
-  * Stun gun
-  * Taser 
-### Weapon Location
-* Store all weapons FAR AWAY from where license, registration, and proof of insurance are located.
-* Find hidden areas where they can still be rapidly drawn in the event of a security crisis.
+## [⚔ Legal self-defense tool(s)](./self-defense.md)
 
 ## ⛑ Emergency Prep Kit
 It's always a good idea to keep emergency tools in your car, including 
