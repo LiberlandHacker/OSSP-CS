@@ -150,6 +150,14 @@ It's always a good idea to keep emergency supplies in your car, including
 * road atlas,
 * duct tape,
 * white cloth (for signaling traffic emergency)
+* ice brush/scraper tool
+* crow bar
+* wd-40
+* work gloves
+* hand sanitizer
+* extra socks and underwear
+* wipes
+* trash bags
 
 Additionally, consider keeping 
 * a spare tire, 
