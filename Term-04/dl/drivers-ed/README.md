@@ -53,8 +53,8 @@
 * 🟢 Section Quiz
 * 🟢 Distracted Driving
 * 🟢 Section Quiz
-* Drowsy Driving
-* Section Quiz
+* 🟢 Drowsy Driving
+* 🟢 Section Quiz
 * Emotions
 * Section Quiz
 * Adverse Driving Conditions and Emergencies - Reduced Visibility Driving
