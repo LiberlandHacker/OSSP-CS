@@ -1,6 +1,6 @@
 # 🚘 Plan for My Ideal Car
 
-## [🚗 Make & Model](./make-and-model.md)
+## [🚗 Make, Model, and aquisition](./make-and-model.md)
 
 ## [📹 Surveillance cameras](./surveillance-cameras.md)
 
