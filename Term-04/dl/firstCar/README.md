@@ -139,12 +139,13 @@ Useful for driving at sunrise or sunset
 * Find hidden areas where they can still be rapidly drawn in the event of a security crisis.
 
 ## ⛑ Emergency Prep Kit
-It's always a good idea to keep emergency supplies in your car, including 
+It's always a good idea to keep emergency tools in your car, including 
 * a first-aid kit, 
 * fire extinguisher,
 * flashlight,
 * blanket + small pillow (for roadside sleep, when needed)
-* water,
+* bottled water,
+* LifeStraw,
 * non-perishable snacks, 
 * breakdown warning triangles,
 * road atlas,
@@ -152,6 +153,7 @@ It's always a good idea to keep emergency supplies in your car, including
 * white cloth (for signaling traffic emergency)
 * ice brush/scraper tool
 * crow bar
+* military-style folding shovel
 * wd-40
 * work gloves
 * hand sanitizer
