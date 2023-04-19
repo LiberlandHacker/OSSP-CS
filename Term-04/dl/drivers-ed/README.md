@@ -59,8 +59,8 @@
 * 🟢 Section Quiz
 * 🟢 Adverse Driving Conditions and Emergencies - Reduced Visibility Driving
 * 🟢 Section Quiz
-* Reduced Traction and Handling Skids
-* Section Quiz
+* 🟢 Reduced Traction and Handling Skids
+* 🟢 Section Quiz
 * Vehicle Failures
 * Section Quiz
 * Minimizing Consequences of a Collision
