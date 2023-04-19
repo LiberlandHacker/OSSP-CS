@@ -55,8 +55,8 @@
 * 🟢 Section Quiz
 * 🟢 Drowsy Driving
 * 🟢 Section Quiz
-* Emotions
-* Section Quiz
+* 🟢 Emotions
+* 🟢 Section Quiz
 * Adverse Driving Conditions and Emergencies - Reduced Visibility Driving
 * Section Quiz
 * Reduced Traction and Handling Skids
