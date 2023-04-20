@@ -4,6 +4,8 @@
 
 ## [📹 Surveillance cameras](./surveillance-cameras.md)
 
+## [📋 Paperwork](./paperwork)
+
 ## 🧥 Covers 
 * Waterproof seat covers
 * Mudproof floor protectors
