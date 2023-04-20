@@ -61,8 +61,8 @@
 * 🟢 Section Quiz
 * 🟢 Reduced Traction and Handling Skids
 * 🟢 Section Quiz
-* Vehicle Failures
-* Section Quiz
+* 🟢 Vehicle Failures
+* 🟢 Section Quiz
 * Minimizing Consequences of a Collision
 * Section Quiz
 * Economical and Trouble-free Driving - Fuel Economy
