@@ -9,3 +9,10 @@ Bring the following paperwork at all times in the vehicle
 ## Proof of Insurance
 ## [Oklahoma Accident Report Form](./oklahoma-collision-report-form.pdf)
 ## [New Hampshire Accident Report Form](./new-hampshire-accident-report-form.pdf)
+
+***
+
+## Additional Items to bring
+* pens
+* clipboard
+* writing paper
