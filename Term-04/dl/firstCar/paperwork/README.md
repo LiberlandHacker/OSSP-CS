@@ -7,6 +7,5 @@ Bring the following paperwork at all times in the vehicle
 ## Driver's License
 ## Vehicle Registration
 ## Proof of Insurance
-## [Oklahoma State Accident Report Form](./oklahoma-collision-report-form.pdf)
-Bring multiple copies of this. You never know when you'll need them. These will also aid you in gathering the necessary info. 
-
+## [Oklahoma Accident Report Form](./oklahoma-collision-report-form.pdf)
+## [New Hampshire Accident Report Form](./new-hampshire-accident-report-form.pdf)
