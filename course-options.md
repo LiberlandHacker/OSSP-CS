@@ -134,6 +134,12 @@ A study of the research on the impact genetics has on one's political views.
 #### 🔴 How to Stage a Revolution
 [MIT OCW: How to Stage a Revolution](https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/)
 
+#### 🔴 Law Enforcement, Intro to
+##### COURSES
+* [Bartlesville Police Department: Citizen's Police Academy](https://www.cityofbartlesville.org/public-safety/police-department/citizens-police-academy/)
+##### BOOKS
+* 1983: George Cole: The American System of Criminal Justice, Third Edition
+
 #### 🔴 Libertarianism in History
 * [MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
 
