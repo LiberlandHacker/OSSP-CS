@@ -42,6 +42,10 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
 * [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
 
+#### 🔴 Management, Intro to
+##### BOOKS
+* 2001: Tom DeMarco: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+
 #### 🟡 Startup School (updated)
 Y Combinator: Startup School.
 
