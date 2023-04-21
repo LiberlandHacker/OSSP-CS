@@ -47,13 +47,17 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 ##### BOOKS
 * 1996: Freiberg & Freiberg: "Nuts! Southwest Airlines' Crazy Recipe for Business and Personal Success"
 * 2001: Tom DeMarco: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
-* 
+* 2011: Dave Ramsey: "EntreLeadership"
+* 2018: Harvard Business Review: "Entrepreneur's Handbook"
 
 #### 🔴 Managing Humans
 ##### BOOKS
 * 1936: Dale Carnegie: "How to Win Friends & Influence People"
+* 1992: James H. Shonk: "Team-Based Organizations: Developing a Successful Team Environment"
+* 1996: Emmet C. Murphy: "Leadership IQ"
 * 2002: Goleman, Boyatzis, & McKee: "Primal Leadership: Realizing the Power of Emotional Intelligence"
 * 2002: Jeffrey J. Fox: "How to Become a Great Boss"
+* 2008: Patterson, et al.: "Influencer: The Power to Change Anything"
 
 #### 🟡 Startups, Intro to
 ##### BOOKS
