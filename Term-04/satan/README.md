@@ -79,6 +79,8 @@ Use this template for each faction's respective score plots.
 
 #### Satanic Panic
 * [KSAT: Explaining satanic panic: South Texas Crime Stories](https://www.ksat.com/news/local/2022/10/18/explaining-satanic-panic-south-texas-crime-stories/)
+* 2021-03-31: [Vox: Why Satanic Panic never really ended](https://www.vox.com/culture/22358153/satanic-panic-ritual-abuse-history-conspiracy-theories-explained)
+* 2021-05-25: [Vox: Why are we so worried about Satan?](https://www.vox.com/2021/5/25/22356338/satanic-panic-america-sarah-marshall)
 
 ### [Satan in pop culture](./pop-culture)
 
