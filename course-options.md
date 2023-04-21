@@ -33,6 +33,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * Milton Friedman: Capitalism and Freedom
 * Alan Mass: The Case for Socialism
 * Marx & Engels: The Communist Manifesto
+* 2009: Levitt & Dubner: "Super Freakonomics"
 ##### COURSES
 [MIT OCW: Principles of Microeconomics](https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/)
 
@@ -42,12 +43,25 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
 * [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
 
-#### 🔴 Management, Intro to
+#### 🔴 Managing a Business
 ##### BOOKS
+* 1996: Freiberg & Freiberg: "Nuts! Southwest Airlines' Crazy Recipe for Business and Personal Success"
 * 2001: Tom DeMarco: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+* 
 
-#### 🟡 Startup School (updated)
-Y Combinator: Startup School.
+#### 🔴 Managing Humans
+##### BOOKS
+* 1936: Dale Carnegie: "How to Win Friends & Influence People"
+* 2002: Goleman, Boyatzis, & McKee: "Primal Leadership: Realizing the Power of Emotional Intelligence"
+* 2002: Jeffrey J. Fox: "How to Become a Great Boss"
+
+#### 🟡 Startups, Intro to
+##### BOOKS
+* 
+* 2010: Jack Garson: "How to Build a Business and Sell It for Millions"
+* 2018: Harvard Business Review: "Entrepreneur's Handbook"
+##### COURSES
+* Y Combinator: Startup School.
 
 ***
 
