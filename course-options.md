@@ -289,6 +289,12 @@ This course will explore the various types of family structures that exist, incl
 ***
 
 
+#### 🔴 Privacy, Security, and Identity
+##### BOOKS
+* 2010: Hoffman & McGinley: "Identity Theft"
+* 2012: J. J. Luna: "How to Be Invisible"
+* 2017: Claypoole & Payton: "Protecting Your Internet Identity"
+* 2017: Kevin Mitnick: "The Art of Invisibility"
 
 
 
