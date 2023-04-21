@@ -63,6 +63,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 ##### BOOKS
 * 
 * 2010: Jack Garson: "How to Build a Business and Sell It for Millions"
+* 2017: Brad Stone: "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World"
 * 2018: Harvard Business Review: "Entrepreneur's Handbook"
 ##### COURSES
 * Y Combinator: Startup School.
