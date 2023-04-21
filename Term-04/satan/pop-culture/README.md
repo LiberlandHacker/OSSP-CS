@@ -10,6 +10,10 @@ Song by Charlie Daniels
 
 ### [Vox: Belief in God is declining. But belief in Satan is on the rise!](https://www.vox.com/2014/7/3/5864861/belief-in-god-is-declining-but-belief-in-satan-is-on-the-rise)
 
+## 2017
+
+### [Vox: Take religion. Remove God. Add #resistance. Meet The Satanic Temple.](https://www.vox.com/identities/2017/10/31/16560150/religion-god-resistance-satanic-temple)
+
 ## 2019
 
 ### "Hail Satan?" Documentary
