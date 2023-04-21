@@ -115,6 +115,11 @@ Hands-On Smart Contract Development with Solidity and Ethereum
 #### 🔴 American Elections
 * [MIT OCW: American Elections](https://ocw.mit.edu/courses/17-263-american-elections-fall-2020/)
 
+#### 🔴 American Law, Intro to
+##### BOOKS
+* 1977: Reader's Digest: You and the Law: A Practical Guide to Everyday Law and How It Affects You and Your Family, Second Revised Edition
+* 1996: The 90 Second Lawyer: Answers to Common Personal and Business Legal Questions
+
 #### 🔴 Environment and Public Health
 ##### BOOKS:
 * Dr. Edna L. Negrón: Public Health and the Environment
@@ -139,6 +144,7 @@ A study of the research on the impact genetics has on one's political views.
 * [Bartlesville Police Department: Citizen's Police Academy](https://www.cityofbartlesville.org/public-safety/police-department/citizens-police-academy/)
 ##### BOOKS
 * 1983: George Cole: The American System of Criminal Justice, Third Edition
+* 2018: Bryan Stevenson: Just Mercy: A True Story of the Fight for Justice
 
 #### 🔴 Libertarianism in History
 * [MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
