@@ -169,6 +169,7 @@ A study of the research on the impact genetics has on one's political views.
 #### 🔴 Religion, Skepticism, Emotion, and Rationality in Society
 ##### BOOKS:
 * 1967: Richard Wurmbrand: "Tortured for Christ"
+* 1982: William j. Murray: "My Life Without God"
 * 1986: Margaret Atwood: The Handmaid's Tale
 * 1990: Carson & Murphey: "Gifted Hands: The Ben Carson Story"
 * 1997: Carl Sagan: "Billions and Billions: Thoughts on Life and Death at the Brink of the Millenium"
