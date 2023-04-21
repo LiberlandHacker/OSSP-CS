@@ -8,6 +8,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * [Hack the Box Academy](https://academy.hackthebox.com/modules)
 * [MIT OCW](https://ocw.mit.edu/search/)
 * [Open Yale](https://oyc.yale.edu/courses)
+* Bartlesville Public Library
 
 ## Anytime
 
@@ -142,8 +143,12 @@ A study of the research on the impact genetics has on one's political views.
 #### 🔴 Law Enforcement, Intro to
 ##### COURSES
 * [Bartlesville Police Department: Citizen's Police Academy](https://www.cityofbartlesville.org/public-safety/police-department/citizens-police-academy/)
+* [United Nations Office on Drugs and Crime: University Module Series: Cybercrime](https://www.unodc.org/e4j/en/tertiary/cybercrime.html)
+* [United Nations Office on Drugs and Crime: University Module Series: Crime Prevention and Criminal Justice](https://www.unodc.org/e4j/en/tertiary/criminal-justice.html)
 ##### BOOKS
 * 1983: George Cole: The American System of Criminal Justice, Third Edition
+* 1998: Walker & Wood: Crime Scene Investigations: Real-Life Science Labs for Grades 6-12
+* 2014: Chriss Lyon: A Killing In Capone's Playground: The True Story of the Hunt for the Most Dangerous Man Alive
 * 2018: Bryan Stevenson: Just Mercy: A True Story of the Fight for Justice
 
 #### 🔴 Libertarianism in History
