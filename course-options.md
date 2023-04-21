@@ -26,6 +26,11 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * 2005: Jeffrey Gitomer's "Little Red Book of Selling"
 * 2011: Gary Vaynerchuck: "The Thank You Economy"
 
+#### 🔴 Cyber Risk Management
+##### BOOKS
+* 1989: National Research Council: "Improving Risk Communication"
+* 2016: Grobman & Cerra: "The Second Economy: The Race for Trust, Treasure and Time in the Cybersecurity War"
+
 #### 🔴 Economics, Intro to
 ##### BOOKS:
 * N. Gregory Mankiw: Essentials of Economics
@@ -48,6 +53,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * 1982: Peters & Waterman: "In Search of Excellence: Lessons from America's Best-Run Companies"
 * 1996: Freiberg & Freiberg: "Nuts! Southwest Airlines' Crazy Recipe for Business and Personal Success"
 * 2001: Tom DeMarco: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+* 2006: Peter F. Drucker: "The Effective Executive"
 * 2007: Timothy Ferris: "The 4-Hour Workweek"
 * 2011: Dave Ramsey: "EntreLeadership"
 * 2017: Mark Moses: "Make Big Happen"
@@ -63,9 +69,12 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * 2002: Jeffrey J. Fox: "How to Become a Great Boss"
 * 2008: Patterson, et al.: "Influencer: The Power to Change Anything"
 
+#### 🔴 Product, Intro to
+* 2001: Michael E. McGrath: "Product Strategy for High-Technology Companies"
+
 #### 🟡 Startups, Intro to
 ##### BOOKS
-* 
+* 2009: Sam Wyly: "1,000 Dollars & an Idea"
 * 2010: Jack Garson: "How to Build a Business and Sell It for Millions"
 * 2017: Brad Stone: "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World"
 * 2018: Harvard Business Review: "Entrepreneur's Handbook"
@@ -145,8 +154,10 @@ Hands-On Smart Contract Development with Solidity and Ethereum
 
 #### 🔴 American Law, Intro to
 ##### BOOKS
+* 1953: Edwin Patterson: "Jurisprudence: Men and Ideas of the Law"
 * 1977: Reader's Digest: You and the Law: A Practical Guide to Everyday Law and How It Affects You and Your Family, Second Revised Edition
 * 1996: The 90 Second Lawyer: Answers to Common Personal and Business Legal Questions
+* 2017: various: "The U.S. Constitution and Other Writings"
 
 #### 🔴 Environment and Public Health
 ##### BOOKS:
