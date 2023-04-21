@@ -214,6 +214,7 @@ A study of the research on the impact genetics has on one's political views.
 * 2002: Rick Warren: "The Purpose Driven Life: What On Earth am I Here For?"
 * 2002: Charles Kimball: "When Religion Becomes Evil"
 * 2006: Richard Dawkins: "The God Delusion"
+* 2006: Bobby Henderson: "The Gospel of the Flying Spaghetti Monster"
 * 2006: André Comte-Sponville: "The Little Book of Atheist Spirituality"
 * 2008: Jeff Sharlet: "The Family: The Secret Fundamentalism at the Heart of American Power"
 * 2010: Dan Ariely: "The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home"
