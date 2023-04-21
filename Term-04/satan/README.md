@@ -73,6 +73,10 @@ Use this template for each faction's respective score plots.
 
 #### Religious Liberty 
 
+* TST Children's Coloring Book
+* TST After School Satan Club
+* TST Monuments
+
 #### Self-identified Satanists in politics
 
 ### Conspiracy theories regarding Satanism.
