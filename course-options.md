@@ -262,6 +262,7 @@ This course will explore the various types of family structures that exist, incl
 * 2015: [Pew Research: PARENTING IN AMERICA: 1. The American family today](https://www.pewresearch.org/social-trends/2015/12/17/1-the-american-family-today/)
 * 2017-07-05: [Science Daily: Children in single-mother-by-choice families do just as well as those in two-parent families](https://www.sciencedaily.com/releases/2017/07/170705095332.htm)
 * 2018-04-25: [Pew Research: The Changing Profile of Unmarried Parents](https://www.pewresearch.org/social-trends/2018/04/25/the-changing-profile-of-unmarried-parents/)
+* 2019-02-13: [Vox: The history of dating reveals how consumerism has hijacked courtship](https://www.vox.com/2016/6/20/11949988/dating-apps-consumerism)
 * 2019: [Insider: THEN AND NOW: How American families have changed since the early 1900s](https://www.insider.com/how-families-have-changed-then-and-now-america-2019-3)
 * 2021-04-28: [USA Today: Willow Smith details her lifestyle on 'Red Table Talk': What you should know about polyamory](https://www.usatoday.com/story/life/health-wellness/2021/04/28/polyamory-what-to-know-non-monogamous-relationships/7389278002/)
 * 2022-03-24: [Insider: I'm pregnant and single on purpose. Here's why I'm glad I made this choice.](https://www.insider.com/single-and-pregnant-im-glad-i-made-this-choice-2022-3)
@@ -272,6 +273,7 @@ This course will explore the various types of family structures that exist, incl
 * 2023-03-24: [New York Post: I let my husband sleep with other women while I clean our home](https://nypost.com/2023/03/24/i-let-my-husband-sleep-with-other-women-while-i-clean-our-home/?dicbo=v2-OdXUoAP#)
 * 2023-04-07: [New York Post: I made my husband quit porn — some say I’m dramatic but it’s cheating](https://nypost.com/2023/04/07/i-made-my-husband-quit-porn-some-say-im-dramatic-but-its-cheating/)
 * 2023-04-11: [USA Today: What is polyamory? What to know about poly relationships.](https://www.usatoday.com/story/life/health-wellness/2023/04/11/polyamorous-definition-poly-relationships/11577348002/)
+* 2023-04-20: [Yahoo Finance: 'When you're 22, you think you know everything': Young US couples are moving in together to save money — but 4-in-10 regret it. Here's what you need to do before shacking up](https://finance.yahoo.com/news/youre-22-think-know-everything-170000505.html)
 
 
 #### 🔴 Genetics, Intelligence, and Society
