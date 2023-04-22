@@ -142,23 +142,26 @@ Hands-On Smart Contract Development with Solidity and Ethereum
 ### LΛиGцаG乇ѕ 🌍
 The languages listed here are strategically chosen due to their particular importance in the context of a cybersecurity career.
 
-#### 🔴 Mandarin
+#### 🔴 Mandarin I
 ##### COURSES
 * Duolingo
 ##### BOOKS
 * See BPL selection
 
-#### 🟡 Russian
+#### 🟡 Russian I
 ##### COURSES
 * Duolingo
 ##### BOOKS
 * See BPL selection
 
-#### 🟡 Spanish
+#### 🟡 Spanish I
 ##### COURSES
 * Duolingo
 ##### BOOKS
+* 1989: Stephen Covey: "Los 7 habitos de la gente altamente efectiva"
 * 1997: Robert Kiyosaki: "Padre Rico Padre Pobre"
+* 2002: George Orwell: "1984" (es)
+* 2007: Steve Miller: "Dibujar Dinosauriuos"
 * More: See BPL selection
 
 
