@@ -42,6 +42,10 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 ##### COURSES
 [MIT OCW: Principles of Microeconomics](https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/)
 
+#### 🔴 Finance, Intro to
+##### PUBLICATIONS
+* U.S. Dept. of Labor EBSA: "Savings Fitness" (blue, on top shelf)
+
 #### 🔴 Game Theory
 ##### COURSES:
 * [Open Yale ECON 159: Game Theory](https://oyc.yale.edu/economics/econ-159)
