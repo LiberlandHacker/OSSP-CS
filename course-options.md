@@ -52,6 +52,10 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * [MIT OCW 17.810: Game Theory](https://ocw.mit.edu/courses/17-810-game-theory-spring-2021/)
 * [MIT OCW 14.12: Economic Applications of Game Theory ](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
 
+#### 🔴 Investing
+##### BOOKS
+* 2018: Grant Cardone: "How to Create Wealth Investing in Real Estate"
+
 #### 🔴 Managing a Business
 ##### BOOKS
 * 1982: Peters & Waterman: "In Search of Excellence: Lessons from America's Best-Run Companies"
@@ -130,6 +134,31 @@ Hands-On Smart Contract Development with Solidity and Ethereum
 #### 🔴 Satellite Communications
 ##### BOOKS
 * 2008: Steve Ford: "The ARRL Satellite Handbook"
+
+***
+
+### LΛиGцаG乇ѕ 🌍
+The languages listed here are strategically chosen due to their particular importance in the context of a cybersecurity career.
+
+#### 🔴 Mandarin
+##### COURSES
+* Duolingo
+##### BOOKS
+* See BPL selection
+
+#### 🟡 Russian
+##### COURSES
+* Duolingo
+##### BOOKS
+* See BPL selection
+
+#### 🟡 Spanish
+##### COURSES
+* Duolingo
+##### BOOKS
+* 1997: Robert Kiyosaki: "Padre Rico Padre Pobre"
+* More: See BPL selection
+
 
 ***
 
