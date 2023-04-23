@@ -291,6 +291,7 @@ This course will explore the various types of family structures that exist, incl
     * [FTC: What to Know About Romance Scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams#lies) 
     * [FTC: Data Spotlight: Romance scammers’ favorite lies exposed](https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed)
     * [Guardian, The: ‘It felt like losing a husband’: the fraudsters breaking hearts – and emptying bank accounts](https://www.theguardian.com/lifeandstyle/2022/jan/10/it-felt-like-losing-a-husband-the-fraudsters-breaking-hearts-and-emptying-bank-accounts)
+    * [Insider: The troubling rise of the romance scam: How digital grifters are bilking the lonely out of $1.3 billion a year](https://www.businessinsider.com/romance-scams-booming-billions-facebook-instagram-pandemic-isolation-online-dating-2023-3)
     * [NortonLifeLock: How We Scammed a Romance Scammer](https://www.nortonlifelock.com/blogs/norton-labs/romance-scams)
     * [Secret Service: Stay Safe Online: Avoid Romance Scams](https://www.secretservice.gov/investigation/romancescams)
     * [WRTV: 'I fell in love': Westfield woman, 84, heartbroken after losing $98K in online romance scam](https://www.wrtv.com/news/wrtv-investigates/i-fell-in-love-westfield-woman-83-heartbroken-after-losing-98k-in-online-romance-scam)
