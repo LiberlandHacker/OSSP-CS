@@ -286,6 +286,9 @@ This course will explore the various types of family structures that exist, incl
 8. Polyamorous family
 9. Childless couple
 10. Childless single
+11. Fraudulent relationships
+    * [FBI: How We Can Help You: Romance Scams](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/romance-scams#:~:text=Romance%20scams%20occur%20when%20a,or%20steal%20from%20the%20victim.)
+    * [FTC: What to Know About Romance Scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams#lies) 
 ##### BOOKS
 * 1992: Stephanie Coontz: "The Way We Never Were: American Families and the Nostalgia Trap"
 * 1997: Dr. Laura Schlessinger: "Ten Stupid Things Men Do to Mess Up Their Lives"
