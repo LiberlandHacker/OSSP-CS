@@ -310,6 +310,7 @@ This course will explore the various types of family structures that exist, incl
       * Queer families
       * Polyamorous families
       * Alternative reproductive arrangements
+      * Prostitution
 ##### BOOKS
 * 1992: Stephanie Coontz: "The Way We Never Were: American Families and the Nostalgia Trap"
 * 1997: Dr. Laura Schlessinger: "Ten Stupid Things Men Do to Mess Up Their Lives"
