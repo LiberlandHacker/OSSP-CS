@@ -266,6 +266,12 @@ A study of the research on the impact genetics has on one's political views.
 * [TST Reading List](https://thesatanictemple.com/pages/the-satanic-temple-library?fbclid=IwAR09nQWlfNVmhFbYklsVhXcbDIWaEHOpJTf7b6lNEYsvqhiLQEyVmA8sA1Y)
 * [CoS Reading List](https://www.churchofsatan.com/sources-book-list/)
 
+#### 🔴 Satanic Living
+##### PROJECT
+Write a devotional aimed at an atheistic Satanist audience. 
+###### TITLE
+The Devil's Daily Devotional: 366 (un)Holy Readings for Scientists, Skeptics, Satanists, and other Citizens of Hell
+
 ***
 
 ### ⓈⓄⒸⒾⓄⓁⓄⒼⓎ 🫂
