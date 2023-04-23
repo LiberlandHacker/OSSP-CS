@@ -289,6 +289,11 @@ This course will explore the various types of family structures that exist, incl
 11. Fraudulent relationships
     * [FBI: How We Can Help You: Romance Scams](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/romance-scams#:~:text=Romance%20scams%20occur%20when%20a,or%20steal%20from%20the%20victim.)
     * [FTC: What to Know About Romance Scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams#lies) 
+    * [FTC: Data Spotlight: Romance scammers’ favorite lies exposed](https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed)
+    * [Guardian, The: ‘It felt like losing a husband’: the fraudsters breaking hearts – and emptying bank accounts](https://www.theguardian.com/lifeandstyle/2022/jan/10/it-felt-like-losing-a-husband-the-fraudsters-breaking-hearts-and-emptying-bank-accounts)
+    * [NortonLifeLock: How We Scammed a Romance Scammer](https://www.nortonlifelock.com/blogs/norton-labs/romance-scams)
+    * [Secret Service: Stay Safe Online: Avoid Romance Scams](https://www.secretservice.gov/investigation/romancescams)
+    * [WRTV: 'I fell in love': Westfield woman, 84, heartbroken after losing $98K in online romance scam](https://www.wrtv.com/news/wrtv-investigates/i-fell-in-love-westfield-woman-83-heartbroken-after-losing-98k-in-online-romance-scam)
 ##### BOOKS
 * 1992: Stephanie Coontz: "The Way We Never Were: American Families and the Nostalgia Trap"
 * 1997: Dr. Laura Schlessinger: "Ten Stupid Things Men Do to Mess Up Their Lives"
