@@ -248,6 +248,7 @@ A study of the research on the impact genetics has on one's political views.
 * 1982: William j. Murray: "My Life Without God"
 * 1986: Margaret Atwood: The Handmaid's Tale
 * 1990: Carson & Murphey: "Gifted Hands: The Ben Carson Story"
+* 1995: Carl Sagan: "The Demon-Haunted World: Science as a Candle in the Dark"
 * 1997: Carl Sagan: "Billions and Billions: Thoughts on Life and Death at the Brink of the Millenium"
 * 2002: Rick Warren: "The Purpose Driven Life: What On Earth am I Here For?"
 * 2002: Charles Kimball: "When Religion Becomes Evil"
