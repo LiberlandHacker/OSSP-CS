@@ -269,8 +269,7 @@ A study of the research on the impact genetics has on one's political views.
 #### 🔴 Satanic Living
 ##### PROJECT
 Write a devotional aimed at an atheistic Satanist audience. 
-###### TITLE
-The Devil's Daily Devotional: 366 (un)Holy Readings for Scientists, Skeptics, Satanists, and other Citizens of Hell
+###### The Devil's Daily Devotional: 366 (un)Holy Readings for Scientists, Skeptics, Satanists, and other Citizens of Hell
 
 ***
 
