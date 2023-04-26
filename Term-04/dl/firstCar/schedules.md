@@ -18,6 +18,7 @@ includes oil changes, tire rotations, brake inspections, and fluid checks.
     * Brake fluid
     * Windshield washer fluid
     * Antifreeze
+    * Belt condition
 ### Daily
 
 
