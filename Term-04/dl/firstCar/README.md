@@ -17,6 +17,9 @@ Useful for driving at sunrise or sunset
 
 ## [⛑ Emergency Prep Kit](./emergency-kit.md)
 
+## 🔧 Vehicle Maintenance Tools
+* Tire pressure guage.
+
 ## [🪴 Plants](./plants.md)
 
 ## Decor
