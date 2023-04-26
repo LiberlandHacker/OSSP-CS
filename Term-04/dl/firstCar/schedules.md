@@ -6,6 +6,7 @@ includes oil changes, tire rotations, brake inspections, and fluid checks.
 ### Annually
 ### Monthly
 * Check tire pressure.
+* Check tire treads. 
 ### Weekly
 ### Daily
 
