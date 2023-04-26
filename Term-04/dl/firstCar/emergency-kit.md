@@ -24,8 +24,9 @@ It's always a good idea to keep emergency tools in your car, including
 * spare batteries
 * jumper cables
 * eyeglasses repair kit
-
-Additionally, consider keeping 
 * a spare tire, 
 * tire jack, and
-* tire iron in your car.
+* tire iron/lug wrench
+* srewdrivers (phillips and flathead)
+* pliers
+
