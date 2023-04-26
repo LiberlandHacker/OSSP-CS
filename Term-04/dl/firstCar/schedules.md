@@ -7,6 +7,7 @@ includes oil changes, tire rotations, brake inspections, and fluid checks.
 ### Every 6 Months
 * Oil change.
 * Tire rotation.
+* Inspect the exhaust system
 ### Monthly
 * Check tire pressure.
 * Check tire treads. 
