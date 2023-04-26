@@ -4,10 +4,20 @@ Regular maintenance is essential to keep your car running smoothly. Follow the m
 recommended maintenance schedule and have your car serviced regularly. Regular maintenance 
 includes oil changes, tire rotations, brake inspections, and fluid checks.
 ### Annually
+### Every 6 Months
+* Oil change.
+* Tire rotation.
 ### Monthly
 * Check tire pressure.
 * Check tire treads. 
 ### Weekly
+* Vehicle check
+  * Check all lights
+  * While parked on a level surface (to prevent misreadings), check under the hood:
+    * Oil
+    * Brake fluid
+    * Windshield washer fluid
+    * Antifreeze
 ### Daily
 
 
