@@ -65,8 +65,8 @@
 * 🟢 Section Quiz
 * 🟢 Minimizing Consequences of a Collision
 * 🟢 Section Quiz
-* Economical and Trouble-free Driving - Fuel Economy
-* Section Quiz
+* 🟢 Economical and Trouble-free Driving - Fuel Economy
+* 🟢 Section Quiz
 * Maintaining Your Vehicle
 * Section Quiz
 * Vehicle Ownership & Maintenance - Purchasing and Insuring a Vehicle
