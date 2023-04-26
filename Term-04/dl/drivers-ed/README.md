@@ -63,8 +63,8 @@
 * 🟢 Section Quiz
 * 🟢 Vehicle Failures
 * 🟢 Section Quiz
-* Minimizing Consequences of a Collision
-* Section Quiz
+* 🟢 Minimizing Consequences of a Collision
+* 🟢 Section Quiz
 * Economical and Trouble-free Driving - Fuel Economy
 * Section Quiz
 * Maintaining Your Vehicle
