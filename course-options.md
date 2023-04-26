@@ -33,6 +33,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 
 #### 🔴 Economics, Intro to
 ##### BOOKS:
+* 1936: John Maynard Keynes: "The General Theory of Employment, Interest, and Money"
 * N. Gregory Mankiw: Essentials of Economics
 * Henry Hazlitt: Economics in One Lesson
 * Milton Friedman: Capitalism and Freedom
