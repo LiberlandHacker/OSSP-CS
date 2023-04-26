@@ -5,14 +5,18 @@ recommended maintenance schedule and have your car serviced regularly. Regular m
 includes oil changes, tire rotations, brake inspections, and fluid checks.
 **DEFER TO THE OWNERS MANUAL FOR YOUR PARTICULAR VEHICLE'S RECOMMENDED MAINTENANCE SCHEDULE. But here are some general guidelines.**
 ### Annually
+* Check brakes
+* Have a comprehensive inspection done.
 ### Every 6 Months
 * Oil change.
 * Check coolant/antifreeze. When replacing coolant/antifreeze, beware of whether a product is **concentrated** vs. **ready to use.**
 * Tire rotation.
 * Inspect the exhaust system
+* Check battery
 ### Monthly
 * Check tire pressure.
 * Check tire treads. 
+* Check turn signals, emergency flashers, brake lights, headlights, and taillights. Bulb outages can be difficult to spot from the driver's seat.
 ### Weekly
 * Vehicle check
   * Check all lights
