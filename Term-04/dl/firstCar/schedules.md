@@ -18,16 +18,21 @@ includes oil changes, tire rotations, brake inspections, and fluid checks.
 * Check tire treads. 
 * Check turn signals, emergency flashers, brake lights, headlights, and taillights. Bulb outages can be difficult to spot from the driver's seat.
 ### Weekly
-* Vehicle check
-  * Check all lights
-  * While parked on a level surface (to prevent misreadings), check under the hood:
-    * Oil
-    * Brake fluid
-    * Windshield washer fluid
-    * Antifreeze
-    * Belt condition
+* Check all lights
+* While parked on a level surface (to prevent misreadings), check under the hood:
+  * Oil
+  * Brake fluid
+  * Windshield washer fluid
+  * Antifreeze
+  * Belts condition
+  * Hoses
+  * Filters
+* Tires: Air pressure, cuts, tread wear, bulging, alignment; include spare tire
 ### Daily
-
+* Windows: Cracks, scratches, dirt, pits
+* Brakes: Pedal pressure / travel, smooth / straight stops
+* Exhaust: Noise, fumes, leaks
+* Steering: Steering wheel play, stiffness in steering
 
 ## Cleaning
 
