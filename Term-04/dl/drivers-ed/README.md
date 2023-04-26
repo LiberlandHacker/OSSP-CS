@@ -67,8 +67,8 @@
 * 🟢 Section Quiz
 * 🟢 Economical and Trouble-free Driving - Fuel Economy
 * 🟢 Section Quiz
-* Maintaining Your Vehicle
-* Section Quiz
+* 🟢 Maintaining Your Vehicle
+* 🟢 Section Quiz
 * Vehicle Ownership & Maintenance - Purchasing and Insuring a Vehicle
 * Section Quiz
 * Travel Planning & Preparation
