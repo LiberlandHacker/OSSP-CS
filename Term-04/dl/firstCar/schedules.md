@@ -3,9 +3,11 @@
 Regular maintenance is essential to keep your car running smoothly. Follow the manufacturer's 
 recommended maintenance schedule and have your car serviced regularly. Regular maintenance 
 includes oil changes, tire rotations, brake inspections, and fluid checks.
+**DEFER TO THE OWNERS MANUAL FOR YOUR PARTICULAR VEHICLE'S RECOMMENDED MAINTENANCE SCHEDULE. But here are some general guidelines.**
 ### Annually
 ### Every 6 Months
 * Oil change.
+* Check coolant/antifreeze. When replacing coolant/antifreeze, beware of whether a product is **concentrated** vs. **ready to use.**
 * Tire rotation.
 * Inspect the exhaust system
 ### Monthly
