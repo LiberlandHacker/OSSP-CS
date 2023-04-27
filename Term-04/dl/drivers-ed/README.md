@@ -69,8 +69,8 @@
 * 🟢 Section Quiz
 * 🟢 Maintaining Your Vehicle
 * 🟢 Section Quiz
-* Vehicle Ownership & Maintenance - Purchasing and Insuring a Vehicle
-* Section Quiz
+* 🟢 Vehicle Ownership & Maintenance - Purchasing and Insuring a Vehicle
+* 🟢 Section Quiz
 * Travel Planning & Preparation
 * Section Quiz
 * Vehicle Technologies
