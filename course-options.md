@@ -347,6 +347,7 @@ This course will explore the various types of family structures that exist, incl
 * 2023-04-07: [New York Post: I made my husband quit porn — some say I’m dramatic but it’s cheating](https://nypost.com/2023/04/07/i-made-my-husband-quit-porn-some-say-im-dramatic-but-its-cheating/)
 * 2023-04-11: [USA Today: What is polyamory? What to know about poly relationships.](https://www.usatoday.com/story/life/health-wellness/2023/04/11/polyamorous-definition-poly-relationships/11577348002/)
 * 2023-04-20: [Yahoo Finance: 'When you're 22, you think you know everything': Young US couples are moving in together to save money — but 4-in-10 regret it. Here's what you need to do before shacking up](https://finance.yahoo.com/news/youre-22-think-know-everything-170000505.html)
+* 2023-04-26: [Refinery29: Now I’m Single, I Only Date Men In Open Relationships](https://www.refinery29.com/en-au/single-dating-men-open-relationships)
 
 
 #### 🔴 Genetics, Intelligence, and Society
