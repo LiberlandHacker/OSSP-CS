@@ -73,8 +73,8 @@
 * 🟢 Section Quiz
 * 🟢 Travel Planning & Preparation
 * 🟢 Section Quiz
-* Vehicle Technologies
-* Section Quiz
+* 🟢 Vehicle Technologies
+* 🟢 Section Quiz
 * Manual Transmissions
 * Section Quiz
 * Summary
