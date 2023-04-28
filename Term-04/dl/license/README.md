@@ -19,6 +19,12 @@ Car types
 * 🔴 SUV
 * 🔴 Sedan
 
+Simulate real-world driving routines
+* 🔴 To work
+* 🔴 Return from work
+* 🔴 To the store and back
+* 🔴 Through a drive through
+
 
 ## 🟡 Get full license
 * 🟡 Wait 30+ days since aquiring your learner's permit.
