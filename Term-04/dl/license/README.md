@@ -8,8 +8,15 @@ Road types
 
 * 🔴 Empty streets
 * 🔴 Empty parking lots
+* 🔴 Suburban streets
+* 🔴 Rural highways
+* 🔴 Downtown
+* 🔴 Federal highways
+* 🔴 BONUS: Interstate/freeway
 
-
+Car types
+* 🔴 SUV
+* 🔴 Sedan
 
 
 ## 🟡 Get full license
