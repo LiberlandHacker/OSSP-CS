@@ -1,4 +1,4 @@
-# Make and Model
+# Make, Model, and Acquisition
 
 ## Priorities
 * Safety
@@ -96,6 +96,7 @@ With any used vehicle, it is important to take certain additional steps:
 ![image](https://user-images.githubusercontent.com/67705789/232258512-30141f18-54b7-4943-941f-0f4b9203b58b.png)
 
 
+
 * Create custom side decals to raise awareness of your services.
 
 
@@ -105,3 +106,9 @@ With any used vehicle, it is important to take certain additional steps:
 
 ### Color
 Black
+
+
+## After buying the vehicle
+* Thouroughly clean every square inch of its interior with a vacuum.
+
+
