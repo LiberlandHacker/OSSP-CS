@@ -13,6 +13,7 @@ Notes by Jonathan A. McCormick, Jr.
 * [Zechariah 3 😈 Satan: the Resistor](#zechariah-3--satan-the-resister)
 * Matthew 😈
   * [4:1-11 😈 Satan: the Tempter](#41-11--satan-the-tempter)
+  * [6:23-24 😈 Ye cannot serve God and Mammon](#623-24--ye-cannot-serve-god-and-mammon)
   * [13 😈 Satan: the Sower of Doubt](#13--satan-the-sower-of-doubt)
   * [16:21-28 😈 Satan: the Self-Preservationist](#1621-28--satan-the-self-preservationist)
   * [25:31-46 😈 Satan: the Most Prominent of the Goats](#2531-46--satan-the-most-prominent-of-the-goats)
@@ -341,6 +342,12 @@ In this passage, Satan interacts with Jesus. Satan is the Tempter, he tempts Jes
 #### In summary
 
 **Satan is the tempter.**
+
+### 6:23-24 😈 "Ye cannot serve God and mammon"
+
+> 6:23 But if thine eye be evil, thy whole body shall be full of darkness.
+> 
+> If therefore the light that is in thee be darkness, how great is that darkness!  6:24 No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 
 ### 13 😈 Satan: the Sower of Doubt
 
