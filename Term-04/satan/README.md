@@ -96,6 +96,7 @@ Use this template for each faction's respective score plots.
 * [Universal Life Church](https://www.ulc.org/)
 * [Spiritual Humanism](https://spiritualhumanism.org/)
 * [Unitarian Universalist: Ordain Minister](https://ordainminister.com/)
+* [Church of the Latter Day Dude](https://dudeism.com/)
 
 
 ⛧
