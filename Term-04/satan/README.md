@@ -92,4 +92,7 @@ Use this template for each faction's respective score plots.
 
 ### Write an [essay](./essay) summarizing your worldview of Satan and Satanism. 
 
+### Become an ordained minister
+* [Universal Life Church](https://www.ulc.org/)
+* [Spiritual Humanism](https://spiritualhumanism.org/)
 ⛧
