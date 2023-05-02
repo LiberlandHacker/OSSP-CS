@@ -263,6 +263,8 @@ A study of the research on the impact genetics has on one's political views.
 * 2011: Duncan Watts: "Everything Is Obvious: How Common Sense Fails Us"
 * 2011: Bart D. Ehrman: "Forged: Writing in the Name of God--Why the Bible's Authors Are Not Who We Think They Are"
 * 2019: Max Lucado: "How Happiness Happens"
+##### PROJECTS
+* Consider ordination in the [Church of the Flying Spaghetti Monster](https://www.spaghettimonster.org/).
 
 #### 🔴 Satanic Literature
 * [TST Reading List](https://thesatanictemple.com/pages/the-satanic-temple-library?fbclid=IwAR09nQWlfNVmhFbYklsVhXcbDIWaEHOpJTf7b6lNEYsvqhiLQEyVmA8sA1Y)
