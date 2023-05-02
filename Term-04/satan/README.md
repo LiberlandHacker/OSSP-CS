@@ -95,4 +95,6 @@ Use this template for each faction's respective score plots.
 ### Become an ordained minister
 * [Universal Life Church](https://www.ulc.org/)
 * [Spiritual Humanism](https://spiritualhumanism.org/)
+
+
 ⛧
