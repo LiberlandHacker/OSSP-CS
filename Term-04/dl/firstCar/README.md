@@ -6,6 +6,9 @@
 
 ## [📋 Paperwork](./paperwork)
 
+## ☠ Kill Switch
+Install a hidden kill switch to prevent theft. 
+
 ## 🧥 Covers 
 * Waterproof seat covers
 * Mudproof floor protectors
