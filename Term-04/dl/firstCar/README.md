@@ -8,6 +8,7 @@
 
 ## ☠ Kill Switch
 Install a hidden kill switch to prevent theft. 
+* [ChrisFix: kill switch installation tutorial video](https://youtu.be/XUhXLsrZiE0)
 
 ## 🧥 Covers 
 * Waterproof seat covers
