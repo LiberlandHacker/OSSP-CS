@@ -94,9 +94,10 @@ Use this template for each faction's respective score plots.
 
 ### Become an ordained minister
 * 🟢 [Universal Life Church](https://www.ulc.org/). Ordained 04 May 2023.
-* [Spiritual Humanism](https://spiritualhumanism.org/)
-* [Unitarian Universalist: Ordain Minister](https://ordainminister.com/)
-* [Church of the Latter Day Dude](https://dudeism.com/)
+* 🟢 [Spiritual Humanism](https://spiritualhumanism.org/). Registered late on 04 May 2023 (Ordained on 05 May 2023 according to registration confirmation).
+* 🟢 [Unitarian Universalist: Ordain Minister](https://ordainminister.com/). Ordained late 04 May 2023.
+* [Church of the Latter Day Dude](https://dudeism.com/). 
+  * I would get this now, but it would not be dudish for me to stress too much over it. 😉
 
 
 ⛧
