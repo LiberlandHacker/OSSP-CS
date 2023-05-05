@@ -4,7 +4,7 @@ By Jonathan A. McCormick, Jr. 05 May 2023.
 
 To the tune of "Be Our Guest" from Disney's "Beauty and the Beast".
 
-A song to express frustration. To be taken METAPHORICALLY. 
+A song to express frustration. To be taken METAPHORICALLY. If you can't handle a little dark humor, please skip this file. Thank you. 
 
 ```
 Blast and blam it. Satan damn it
