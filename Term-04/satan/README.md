@@ -93,7 +93,7 @@ Use this template for each faction's respective score plots.
 ### Write an [essay](./essay) summarizing your worldview of Satan and Satanism. 
 
 ### Become an ordained minister
-* [Universal Life Church](https://www.ulc.org/)
+* 🟢 [Universal Life Church](https://www.ulc.org/). Ordained 04 May 2023.
 * [Spiritual Humanism](https://spiritualhumanism.org/)
 * [Unitarian Universalist: Ordain Minister](https://ordainminister.com/)
 * [Church of the Latter Day Dude](https://dudeism.com/)
