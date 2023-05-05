@@ -15,7 +15,7 @@ Yeet it into a tar pit
 Tell that prick
 To suck a dick
 Why not bash it with a brick?
-Try the ____, it's corrosive
---------explosive
+Try the bromine, it's corrosive
+Don't believe me? Try explosives
 
 ```
