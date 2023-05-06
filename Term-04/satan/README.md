@@ -88,11 +88,10 @@ Use this template for each faction's respective score plots.
 
 ### [Satan in pop culture](./pop-culture)
 
-### Write and record a [Satanic hymn](./satanic-hymn)
 
 ### Write an [essay](./essay) summarizing your worldview of Satan and Satanism. 
 
-### 🟢 Become an ordained minister
+### 🟢 Become an [ordained minister](./ordained)
 * 🟢 [Universal Life Church](https://www.ulc.org/). Ordained 04 May 2023.
 * 🟢 [Spiritual Humanism](https://spiritualhumanism.org/). Registered late on 04 May 2023 (Ordained on 05 May 2023 according to registration confirmation).
 * 🟢 [North Shore Universal Church / Ordain Minister](https://ordainminister.com/). Ordained late 04 May 2023.
