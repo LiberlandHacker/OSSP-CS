@@ -59,6 +59,13 @@ Using these, we can arbitrarily assign letters to certain binary number values. 
 Logic gates were developed in order to perform certain operations on information: AND, OR, and NOT. 
 
 ### 3. A Wartime Burst of Progress
+
+War created heightened demand for computational tools. 
+* Code making
+* Code breaking
+* Ballistics predictive math
+
+
 ### 4. Evolution of the Microchip
 ### 5. A Golden Age of Entrepreneurship
 
