@@ -18,7 +18,7 @@ To live right now and find joy 'midst strife
 Beautiful Tempter, Lord of the night
 Thou Morningstar of our true desire
 With thee by our side, we fear no fright
-And in our hearts is Hell's bright fire
+For in our hearts is Hell's bright fire
 
 Glorious Prince, of the underworld
 Thou reigns over our earthly delights
