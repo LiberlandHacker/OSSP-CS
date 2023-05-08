@@ -1,4 +1,4 @@
-# Sexiest Lord Satan 😈
+# Sexiest Lord Satan 😈 ❤‍🔥
 
 By Jonathan A. McCormick, Jr. with ChatGPT. 8 May 2023.
 
@@ -21,7 +21,7 @@ With thee by our side, we fear no fright
 And in our hearts is Hell's bright fire
 
 Glorious Prince, of the underworld
-Thou reigns over earthly delights
+Thou reigns over our earthly delights
 Thy wisdom guides us, thy power unfurled
 As we partake in our sinful rites
 
