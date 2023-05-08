@@ -4,8 +4,19 @@
 Acquired 27 April 2023.
 
 ## 🟡 Practice
+### Hours
+#### 40 Daylight Hours 🌄
+|date|hours|running total|
+|-|-|-|
+|<20230508|2|2|
+|20230508|1|3|
+#### 10 Nighttime Hours 🌃
+|date|hours|running total|
+|-|-|-|
+|<20230508|1|1|
+||||
 
-Road types
+### Road types
 
 * 🔴 Empty streets
 * 🔴 Empty parking lots
