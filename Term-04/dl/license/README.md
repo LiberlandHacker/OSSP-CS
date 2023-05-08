@@ -1,4 +1,4 @@
-# 🟡 Complete the Oklahoma Driver Licensing Process
+# 🟡 Complete the Oklahoma Driver Licensing Process 🪪
 
 ## 🟢 Get a learner's permit
 Acquired 27 April 2023.
