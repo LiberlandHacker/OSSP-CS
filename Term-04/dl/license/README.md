@@ -18,16 +18,16 @@ Acquired 27 April 2023.
 
 ### Road types
 
-* 🔴 Empty streets
-* 🔴 Empty parking lots
+* 🟢 Empty streets
+* 🟢 Empty parking lots
 * 🔴 Suburban streets
-* 🔴 Rural highways
+* 🟢 Rural highways
 * 🔴 Downtown
 * 🔴 Federal highways
 * 🔴 BONUS: Interstate/freeway
 
 Car types
-* 🔴 SUV
+* 🟢 SUV
 * 🔴 Sedan
 
 Simulate real-world driving routines
