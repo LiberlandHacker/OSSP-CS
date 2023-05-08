@@ -1,5 +1,9 @@
 # Sexiest Lord Satan
 
+By Jonathan A. McCormick, Jr. with ChatGPT. 8 May 2023.
+
+To the tune of "Fairest Lord Jesus".
+
 ```
 
 Sexiest Lord Satan, ruler of all pleasure
