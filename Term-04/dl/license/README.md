@@ -20,7 +20,7 @@ Acquired 27 April 2023.
 
 * 🟢 Empty streets
 * 🟢 Empty parking lots
-* 🔴 Suburban streets
+* 🟢 Residential streets
 * 🟢 Rural highways
 * 🔴 Downtown
 * 🔴 Federal highways
