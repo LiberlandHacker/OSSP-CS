@@ -4,6 +4,8 @@
 
 ## [📹 Surveillance cameras](./surveillance-cameras.md)
 
+## [✅ Checklists](./checklists)
+
 ## [📋 Paperwork](./paperwork)
 
 ## ☠ Kill Switch
