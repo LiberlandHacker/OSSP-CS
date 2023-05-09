@@ -32,4 +32,10 @@
 
 ![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/8e495394-9ca2-4fd4-81e0-9b5606acdd9e)
 
-11. 
+11. lim{x→2} x - [x]
+    1. lim{x→2^-} x - [x] = 1
+    2. lim{x→2^+} x - [x] = 0
+
+In this context, the square brakets "[]" denotes the whole number portion. Example: `[4.54321] = 4`.
+
+
