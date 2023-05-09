@@ -22,4 +22,10 @@
 
 ![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/05413324-dc54-4a00-9d40-a47380adc503)
 
-9. 
+9. lim{x→0} sin(x)/x^2 
+    1. lim{x→0^-} sin(x)/x^2 = -∞
+    2. lim{x→0^+} sin(x)/x^2 = ∞
+
+![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/1ff07dcd-799b-4c6a-8eb1-cbdb059b6e3e)
+
+10. 
