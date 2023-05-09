@@ -14,4 +14,8 @@
 
 ![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/3d42c62d-d0e9-409a-ad6e-1dd6abf12a95)
 
-7. 
+7. lim{x→1} (x^2 + x - 2)/(x - 1) = ∞
+
+![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/68aa9396-96cf-4c71-81b7-e8f5d5434fbb)
+
+8. 
