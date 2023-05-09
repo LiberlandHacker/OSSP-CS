@@ -39,5 +39,5 @@
 In this context, the square brakets "[]" denotes the whole number portion. Example: `[4.54321] = 4`.
 
 12. skipped
-13. 
+13. skipped
 
