@@ -9,5 +9,5 @@
 ![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/7c70fbfb-6938-4d84-a329-3610b3df8dac)
 
 
-5. 
+5. lim{t→e^3} 2ln(t) = 6
 6. 
