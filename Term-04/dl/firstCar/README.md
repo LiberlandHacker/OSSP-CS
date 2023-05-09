@@ -28,7 +28,7 @@ Useful for driving at sunrise or sunset
 
 ## 🟡 [Plants](./plants.md) 🪴 
 
-## 🟡 [Decor](./decor) 😈
+## 🟡 [Decor](./decor.md) 😈
 
 ## 🟡 Entertainment 📚
 * a good book or two.
