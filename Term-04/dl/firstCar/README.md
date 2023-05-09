@@ -34,8 +34,8 @@ For all decor, convert adhesives to magnets.
 * [Decorative antennas](https://www.walmart.com/ip/2pcs-Black-Magnetic-Base-Truck-Vehicle-Car-Vehicle-Roof-Mount-Decorative-Aerial-Antenna/652704028?athcpid=652704028&athpgid=AthenaItempage&athcgid=null&athznid=utic&athieid=v0&athstid=CS020&athguid=NQUrJt8ZX5Be28jfhXKmDS8ZYM53V0QMRgCQ&athancid=1686986812&athena=true)
 * Eagle Scout 
 
-## Entertainment
+## Entertainment 📚
 * a good book or two.
 * pens and notepad
 
-## [📆 Set schedules](./schedules.md)
+## [Set schedules](./schedules.md) 📆 
