@@ -28,4 +28,8 @@
 
 ![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/1ff07dcd-799b-4c6a-8eb1-cbdb059b6e3e)
 
-10. 
+10. lim{x→0} xsin(1/x) = 0
+
+![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/8e495394-9ca2-4fd4-81e0-9b5606acdd9e)
+
+11. 
