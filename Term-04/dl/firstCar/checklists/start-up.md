@@ -1,7 +1,7 @@
 # Start-up List
 
 1. Check the vehicle's **general condition**. 🚗
-2. Check all **around and under** the vehicle for objects. 🛹
+2. Check **all around and under** the vehicle for objects. 🛹
 3. Identify any **safety hazards** in or near your intended path of travel (pedestrians, kids, dogs, IEDs, etc.) 🧨
 4. **Enter vehicle**. 📥
 5. **Close & lock** all doors. 🔐
