@@ -6,3 +6,4 @@ For all decor, convert adhesives to magnets.
 * [Eagle Scout decal](https://www.scoutshop.org/eagle-scout-domed-decal-33963.html)
 * libertarian porcupine decal
 * [Reflective tape](https://www.walmart.com/ip/Reflective-Tape-Safety-Self-Adhesive-Striping-Sticker-Decal-26FT-Roll-1CM/582170983)
+* [Rookie driver decal](https://www.walmart.com/ip/Ellopi-6-New-Driver-Sticker-Round-Please-Be-Patient-Bumper-Decal-1-Pack/601860673?adsRedirect=true)
