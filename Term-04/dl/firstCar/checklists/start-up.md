@@ -15,7 +15,7 @@
 13. Check **fuel guage**. ⛽
 14. Check **windows**. If necessary, defrost and/or clean them. 🪟
 15. Have a **planned route of travel** in mind. If you need to set up a navigational aid, do it now. 🗺
-16. Adjust climate control, radio, electronic devices, and other optional systems. 📻
+16. Adjust climate control, radio, electronic devices, and other optional systems, where appropriate. 📻
 17. Turn on **low-beam headlights**. 🔦
 18. Take a moment to **clear your mind and focus on driving** before rolling out. 🧘
 19. Do a **quick survey** of your surroundings and intended path of travel. 👀
