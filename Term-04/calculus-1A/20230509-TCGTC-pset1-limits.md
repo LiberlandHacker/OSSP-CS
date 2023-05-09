@@ -10,4 +10,8 @@
 
 
 5. lim{t→e^3} 2ln(t) = 6
-6. 
+6. lim{x→∞} cos(x) / (x - 1) = 0
+
+![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/3d42c62d-d0e9-409a-ad6e-1dd6abf12a95)
+
+7. 
