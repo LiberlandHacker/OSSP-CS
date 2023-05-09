@@ -18,4 +18,8 @@
 
 ![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/68aa9396-96cf-4c71-81b7-e8f5d5434fbb)
 
-8. 
+8. lim{x→0} sin(2x)/x = 2
+
+![image](https://github.com/LiberlandHacker/OSSP-CS/assets/67705789/05413324-dc54-4a00-9d40-a47380adc503)
+
+9. 
