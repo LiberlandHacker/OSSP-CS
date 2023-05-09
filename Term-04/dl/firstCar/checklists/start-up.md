@@ -1,4 +1,4 @@
-# Start-up List
+# 🟢 Start-up List
 
 1. Check the vehicle's **general condition**. 🚗
 2. Check **all around and under** the vehicle for objects. 🛹
