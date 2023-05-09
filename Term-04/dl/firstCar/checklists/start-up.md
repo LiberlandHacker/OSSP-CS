@@ -5,7 +5,7 @@
 3. Identify any **safety hazards** in or near your intended path of travel (pedestrians, kids, dogs, IEDs, etc.) 🧨
 4. **Enter vehicle**. 📥
 5. **Close & lock** all doors. 🔐
-6. Fasten **seat belts** for every vehicle occupant. 🤗
+6. Ensure **seat belts** are fastened for every vehicle occupant. 🤗
 7. Confirm parking **gear** and parking **brake** status. 🅿
 8. **Adjust** seat, wheel, mirrors (left, center, right), head restraint, and pedals, as necessary. 💺
 9. Check your **visual field**. Make sure mirrors and lines of sight are as you expect. 👀
