@@ -12,3 +12,34 @@
 11. Set any alarms or **security systems** (if applicable). 🛡
 12. **Lock** all doors and windows. 🔐
 13. Verify that the area around the vehicle is **safe** before leaving. 🦺
+
+
+## 🟢 Shut-down Poem
+By Jonathan A. McCormick, Jr. with ChatGPT, 10 May 2023.
+
+```
+As your car ride comes to an end,
+Remember these checks, my dear friend:
+Shift to park gear, don't forget,
+Set the brake, to avoid regret.
+
+Roll up windows, keep things tight,
+Headlights off, to save battery's might.
+Note fuel level, plan ahead,
+Refuel if needed, no need to dread.
+
+Turn off the engine, keys in hand,
+Remove belongings, from this land.
+Check for damage, issues to fix,
+Ensure safety, with a quick mix.
+
+Set the alarms, if you must,
+Lock the doors, no need to fuss.
+Check the area, before you flee,
+Safe and sound, for you and me.
+
+These checks may seem small,
+But they keep us safe overall.
+So, remember them with ease,
+And end each car ride with peace.
+```
