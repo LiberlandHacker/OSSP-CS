@@ -1,4 +1,4 @@
-# Shut-down List 
+# Shut-down List 🡇
 1. Shift to **parking gear**. 🅿
 2. Set **parking brake**. 🅿
 3. **Roll up windows** (if applicable). 🪟
