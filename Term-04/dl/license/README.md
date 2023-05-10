@@ -35,9 +35,9 @@ Car types
 
 Simulate real-world driving routines
 * 🔴 To work
-* 🔴 Return from work
+* 🟢 Return from work
 * 🔴 To the store and back
-* 🔴 Through a drive through
+* 🟢 Through a drive through
 
 
 ## 🟡 Get full license
