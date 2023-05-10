@@ -31,7 +31,7 @@ Refuel if needed, no need to dread.
 Turn off the engine, keys in hand,
 Remove belongings, from this land.
 Check for damage, issues to fix,
-Ensure safety, with a quick mix.
+Dismiss your riders, whether one or six.
 
 Set the alarms, if you must,
 Lock the doors, no need to fuss.
