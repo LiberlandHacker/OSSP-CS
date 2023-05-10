@@ -4,7 +4,7 @@
 
 ## 🟡 [Surveillance cameras](./surveillance-cameras.md) 📹 
 
-## 🟡 [Checklists](./checklists) ✅ 
+## 🟢 [Checklists](./checklists) ✅ 
 
 ## 🟡 [Paperwork](./paperwork) 📋 
 
