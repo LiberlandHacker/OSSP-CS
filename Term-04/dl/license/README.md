@@ -39,5 +39,7 @@ Simulate real-world driving routines
 
 
 ## 🟡 Get full license
+* 🟡 Schedule driving test with DPS office.
+* 🟡 Confirm driving test arrangements with boss.
 * 🟡 Wait 30+ days since aquiring your learner's permit.
 * 🔴 Pass the driving test at the DPS office
