@@ -21,3 +21,43 @@
 19. Do a **quick survey** of your surroundings and intended path of travel. 👀
 20. **Carefully drive** to your desired destination. 🚗
 
+🟢 Start-up Poem
+
+By Jonathan A. McCormick, Jr. with ChatGPT, 10 May 2023.
+
+```
+As you start your car, before you go,
+Make sure to check, to avoid woe:
+Inspect the vehicle, to be sure,
+No issues exist, that could occur.
+
+Look all around, under the car,
+For any object, that may mar,
+Your safe drive ahead, with ease,
+Clear the path, for a smooth breeze.
+
+Safety hazards, watch them close,
+Pedestrians, dogs, and those who pose,
+A threat to you, on your drive,
+Identify them, so you can thrive.
+
+Step inside, and lock the doors,
+Fasten seat belts, keep them secure.
+Check the gear, and parking brake,
+Adjust the seat, the wheel, and brake.
+
+Mirrors, headrests, pedals too,
+Check your visual field, it's crucial.
+Secure loose objects, hold them tight,
+For a safer drive, with delight.
+
+Start the engine, check warning lights,
+Fuel gauge, windows, defrost in sight.
+Plan your route, navigate with care,
+Adjust climate control, prepare.
+
+Low-beam headlights, on they go,
+Your mind at ease, calm and slow.
+Survey your surroundings, before you drive,
+Take off and arrive, safe and alive.
+```
