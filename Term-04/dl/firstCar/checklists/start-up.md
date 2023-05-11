@@ -42,9 +42,9 @@ A threat to you, on your drive,
 Identify them, so you can thrive.
 
 Step inside, and lock the doors,
-Fasten seat belts, keep them secure.
+Fasten those seat belts, including yours.
 Check the gear, and parking brake,
-Adjust the seat, the wheel, and brake.
+Adjust your seat and wheel to avoid headache.
 
 Set your mirrors to your approval,
 Check your visual field, it's crucial.
