@@ -46,9 +46,9 @@ Fasten seat belts, keep them secure.
 Check the gear, and parking brake,
 Adjust the seat, the wheel, and brake.
 
-Mirrors, headrests, pedals too,
+Set your mirrors to your approval,
 Check your visual field, it's crucial.
-Secure loose objects, hold them tight,
+Secure loose objects, strap them tight,
 For a safer drive, with delight.
 
 Start the engine, check warning lights,
