@@ -275,6 +275,14 @@ A study of the research on the impact genetics has on one's political views.
 Write a devotional aimed at an atheistic Satanist audience. 
 ###### The Devil's Daily Devotional: 366 (un)Holy Readings for Scientists, Skeptics, Satanists, and other Citizens of Hell
 
+#### 🔴 Satanic Ministry
+A course to explore methods of ministry and organization and how these methods are, could be, or shouldn't be employed by Satanists. 
+##### BOOKS
+* 1981: Andrew M. Greeley: "The Cardinal Sins"
+* 2006: General Conference Stewardship Department (SDA): "Strategic Church Finances: A Biblical Approach".
+* 2008: Richard R. Osmer: "Practical Theology"
+* xxxx: Nolo: "Starting and Building a Nonprofit" & related books.
+
 ***
 
 ### ⓈⓄⒸⒾⓄⓁⓄⒼⓎ 🫂
