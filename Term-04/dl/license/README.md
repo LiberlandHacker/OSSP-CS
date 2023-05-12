@@ -26,8 +26,8 @@ Acquired 27 April 2023.
 * 🟢 Empty parking lots
 * 🟢 Residential streets
 * 🟢 Rural highways
-* 🔴 Downtown
-* 🔴 Federal highways
+* 🟢 Downtown
+* 🟢 Federal highways
 * 🔴 BONUS: Interstate/freeway
 
 Car types
@@ -37,7 +37,7 @@ Car types
 Simulate real-world driving routines
 * 🔴 To work
 * 🟢 Return from work
-* 🔴 To the store and back
+* 🟢 To the store and back
 * 🟢 Through a drive through
 
 
