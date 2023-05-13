@@ -51,7 +51,7 @@ With any used vehicle, it is important to take certain additional steps:
         * Tulsa County Sheriff
         * OK Highway Patrol
     2. Watch local used car dealerships
-    3. Watch auction sites
+    3. Watch web sources for buying
         * [GSA Auctions](https://gsaauctions.gov/?footer=gsa.gov)
         * [GovDeals.com](https://www.govdeals.com/)
         * [Ron Tate Auto](https://www.rontateauto.com/newandusedcars)
