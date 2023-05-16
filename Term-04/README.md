@@ -11,11 +11,11 @@
 
 [MIT OCW: 18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 
-#### [🔴 Computation Structures](./computation-structures)
+#### [🟡 Computation Structures](./computation-structures)
 
 [MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/). 
 
-#### [🔴 Computer Architecture](./computer-architecture)
+#### [🟡 Computer Architecture](./computer-architecture)
  
 [MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
 
@@ -24,9 +24,9 @@
 
 #### [🟡 Religion: Satanism I: Intro to Satanism](./satan)
 
-#### 🔴 [Project0: Build a useful web app.](./project0)
+#### [🟡 Project0: Build a useful web app.](./project0)
 
-#### [🔴 Project1: Get an internship in tech.](./project1)
+#### [🟢 Project1: Get an internship/job in tech.](./project1)
 
 #### [🟡 Get Oklahoma Drivers License](./dl)
 
