@@ -1,5 +1,6 @@
 
-# Project1: Get an internship in tech 
+# 🟢 Project1: Get an internship in tech 
+COMPLETED. Company undisclosed.
 
 ## Create a [video ad](./video-ad) to introduce yourself to potential employers. 
 
