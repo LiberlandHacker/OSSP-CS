@@ -262,6 +262,7 @@ A study of the research on the impact genetics has on one's political views.
 * 2010: Ayaan Hirsi Ali: "Nomad: From Islam to America: A Personal Journey Through the Clash of Civilizations"
 * 2011: Duncan Watts: "Everything Is Obvious: How Common Sense Fails Us"
 * 2011: Bart D. Ehrman: "Forged: Writing in the Name of God--Why the Bible's Authors Are Not Who We Think They Are"
+* 2014: Sam Harris: "Waking Up: A Guide to Spirituality Without Religion"
 * 2019: Max Lucado: "How Happiness Happens"
 ##### PROJECTS
 * Consider ordination in the [Church of the Flying Spaghetti Monster](https://www.spaghettimonster.org/).
