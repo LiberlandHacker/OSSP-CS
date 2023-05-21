@@ -1,4 +1,7 @@
-Dec. 2022: "Ave Satanas" by Jona⸸han McCormick, Jr.
+# Ave Satanas
+
+By Jona⸸han McCormick, Jr. December 2022.
+
 A Satanic version of "Ave Maria"
 
 
