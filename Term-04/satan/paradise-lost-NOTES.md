@@ -17,7 +17,7 @@ by John Milton
 
 [BOOK I](#book-i) 😈 Satan: the Fallen Arch Angel
 
-[BOOK II](#book-ii) 😈 
+[BOOK II](#book-ii) 😈 Satan: the Volunteer
 
 [BOOK III](#book-iii) 😈
 
@@ -154,7 +154,7 @@ Satan and his crew have considered appeasement toward God, the monarch of Heaven
 
 ## Book II
 
-Satan: the 
+Satan: the Volunteer
 
 901-906
 ```
@@ -179,11 +179,6 @@ Then, after brief silence (no volunteers or objectors), Satan says he himself wi
 There is then some description of Hell's features, including rivers inspired by Greek mythology. 
 
 1539-1767: Satan is allegedly the sire of a child with Sin.
-
-{RESUME AT 1910}
-
-
-
 
 ## Book III
 
