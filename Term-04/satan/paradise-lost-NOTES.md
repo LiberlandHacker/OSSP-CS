@@ -3,7 +3,7 @@
 Notes by Jonathan A. McCormick, Jr. 
 2023
 
-## Metadate
+## Metadata
 
 Title: Paradise Lost
 
