@@ -5,11 +5,12 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 **Be sure and add the appropriate courses to the appropriate folders as you go along. This file is basically just a dump of ideas.**
 
 ## General Sources of Courses
+* [Bartlesville Public Library](https://bartlesvillelibrary.com/)
 * [Hack the Box Academy](https://academy.hackthebox.com/modules)
+* [Internet Society](https://www.internetsociety.org/learning/)
 * [MIT OCW](https://ocw.mit.edu/search/)
 * [Open Yale](https://oyc.yale.edu/courses)
-* Bartlesville Public Library
-* [Internet Society](https://www.internetsociety.org/learning/)
+* [Sololearn](https://www.sololearn.com/)
 
 ## Anytime
 
