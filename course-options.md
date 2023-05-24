@@ -9,6 +9,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 * [MIT OCW](https://ocw.mit.edu/search/)
 * [Open Yale](https://oyc.yale.edu/courses)
 * Bartlesville Public Library
+* [Internet Society](https://www.internetsociety.org/learning/)
 
 ## Anytime
 
