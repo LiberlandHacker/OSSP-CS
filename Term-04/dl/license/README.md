@@ -47,6 +47,8 @@ Simulate real-world driving routines
 * 🟢 To the store and back
 * 🟢 Through a drive through
 
+### 🟢 Law Enforcement
+Survive being followed by an LE vehicle without being pulled over.
 
 ## 🟡 Get full license
 * 🟡 Schedule driving test with DPS office.
