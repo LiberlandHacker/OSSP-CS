@@ -1,6 +1,6 @@
 # Satan Loves Me
 
-By Jonathan McCormick, Jr. with ChatGPT
+By Levia⸸han Andras McMornings⸸ar with ChatGPT
 
 30 April 2023
 
