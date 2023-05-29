@@ -41,14 +41,14 @@ Acquired 27 April 2023.
 * 🟢 Rural highways
 * 🟢 Downtown
 * 🟢 Federal highways
-* 🔴 BONUS: Interstate/freeway
+* 🟢 BONUS: Interstate/freeway
 
 Car types
 * 🟢 SUV
-* 🔴 Sedan
+* 🟢 Sedan
 
 Simulate real-world driving routines
-* 🔴 To work
+* 🟢 To work
 * 🟢 Return from work
 * 🟢 To the store and back
 * 🟢 Through a drive through
@@ -57,7 +57,7 @@ Simulate real-world driving routines
 Survive being followed by an LE vehicle without being pulled over.
 
 ## 🟡 Get full license
-* 🟡 Schedule driving test with DPS office.
-* 🟡 Confirm driving test arrangements with boss.
-* 🟡 Wait 30+ days since aquiring your learner's permit.
+* ❌ Schedule driving test with DPS office.
+* 🟢 Confirm driving test arrangements with boss.
+* 🟢 Wait 30+ days since aquiring your learner's permit.
 * 🔴 Pass the driving test at the DPS office
