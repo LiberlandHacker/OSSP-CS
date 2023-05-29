@@ -1,6 +1,6 @@
 # Blast and Blam It
 
-By Jonathan A. McCormick, Jr. 05 May 2023.
+By Levia⸸han Andras McMornings⸸ar 05 May 2023.
 
 To the tune of "Be Our Guest" from Disney's "Beauty and the Beast".
 
