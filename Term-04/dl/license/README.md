@@ -52,6 +52,7 @@ Simulate real-world driving routines
 * 🟢 Return from work
 * 🟢 To the store and back
 * 🟢 Through a drive through
+* 🟢 To a place in a different area of the state and back 
 
 ### 🟢 Law Enforcement
 Survive being followed by an LE vehicle without being pulled over.
@@ -60,4 +61,4 @@ Survive being followed by an LE vehicle without being pulled over.
 * ❌ Schedule driving test with DPS office.
 * 🟢 Confirm driving test arrangements with boss.
 * 🟢 Wait 30+ days since aquiring your learner's permit.
-* 🔴 Pass the driving test at the DPS office
+* 🔴 Pass the driving test at the DPS office.
