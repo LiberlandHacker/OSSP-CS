@@ -1,7 +1,7 @@
 # Invocation for Government Officials and Public Meetings
 
 <pre>
-By Jona⸸han McCormick, Jr.
+By Levia⸸han Andras McMornings⸸ar
 9 March, 2023
 </pre>
 
