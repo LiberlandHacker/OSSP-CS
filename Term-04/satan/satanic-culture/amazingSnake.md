@@ -1,6 +1,6 @@
 # Amazing Snake
 
-By Jonathan McCormick, Jr. with ChatGPT. 30 April 2023.
+By Levia⸸han Andras McMornings⸸ar with ChatGPT. 30 April 2023.
 
 ```
 Amazing Snake, How sweet the fruit, Of the Forbidden Tree
