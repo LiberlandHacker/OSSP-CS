@@ -1,9 +1,9 @@
-# 🟡 Complete the Oklahoma Driver Licensing Process 🪪
+# 🟢 Complete the Oklahoma Driver Licensing Process 🪪
 
 ## 🟢 Get a learner's permit
 Acquired 27 April 2023.
 
-## 🟡 Practice
+## Practice
 ### Hours
 #### 40 Daylight Hours 🌄
 |date|hours|running total|
@@ -57,8 +57,7 @@ Simulate real-world driving routines
 ### 🟢 Law Enforcement
 Survive being followed by an LE vehicle without being pulled over.
 
-## 🟡 Get full license
-* ❌ Schedule driving test with DPS office.
+## 🟢 Get full license
 * 🟢 Confirm driving test arrangements with boss.
 * 🟢 Wait 30+ days since aquiring your learner's permit.
-* 🔴 Pass the driving test at the DPS office.
+* 🟢 Pass the driving test at the DPS office.
