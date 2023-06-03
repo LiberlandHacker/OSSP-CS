@@ -5,7 +5,7 @@
 
 ### 🟢 [Study the OK Driver's Ed materials by AAA](./drivers-ed)
 
-### 🟡 [Go through OK licensing process](./license)
+### 🟢 [Go through OK licensing process](./license)
 
 ### 🔴 Practice what to do after a collision in Oklahoma
 Fill out accident report.
