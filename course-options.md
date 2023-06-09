@@ -274,6 +274,7 @@ A study of the research on the impact genetics has on one's political views.
 * [CoS Reading List](https://www.churchofsatan.com/sources-book-list/)
 
 #### 🔴 Satanic Living
+
 ##### PROJECT
 Write a devotional aimed at an atheistic Satanist audience. 
 ###### The Devil's Daily Devotional: 366 (un)Holy Readings for Scientists, Skeptics, Satanists, and other Citizens of Hell
@@ -382,7 +383,10 @@ This course will explore the various types of family structures that exist, incl
 
 
 
-
+#### 🔴 Sexuality, Intro to
+##### BOOKS
+* 2017: R. Marie Griffith: "Moral Combat: How Sex Divided American Christians & Fractured American Politics."
+* 2017: Richard O. Prum: "The Evolution of Beauty: How Darwin's Forgotten Theory of Mate Choice Shapes the Animal World--and Us."
 
 
 
