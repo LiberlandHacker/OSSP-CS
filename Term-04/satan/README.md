@@ -53,7 +53,7 @@ contributions to Satanic literature and thought.
 * 2007: The Satanic Scriptures by Peter Gilmore
   * 🔴
 * 2021: Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
-  * 🔴
+  * 🟡
 * 2021: [Lilith Through the Times](https://skhadka.sites.gettysburg.edu/Lilith/)
   * 🔴
 
