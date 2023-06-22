@@ -47,6 +47,8 @@ contributions to Satanic literature and thought.
   * https://en.wikipedia.org/wiki/Lucifer_(DC_Comics)#Television
   * https://dc.fandom.com/wiki/Lucifer_Morningstar_(New_Earth)
 * 2001: Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
+  * 🔴
+* 2005: BLOOM's Major Literary Characters: Satan. Edited by Harold Bloom.
   * 🔴 
 * 2007: The Satanic Scriptures by Peter Gilmore
   * 🔴
