@@ -186,6 +186,10 @@ The languages listed here are strategically chosen due to their particular impor
 #### 🔴 Sperm
 [MIT OCW: The Science of Sperm](https://ocw.mit.edu/courses/7-345-the-science-of-sperm-fall-2014/)
 
+#### 🔴 Universe, Intro to the
+##### BOOKS
+* 1988: Stephen Hawking: "A Brief History of Time: from the Big Bang to black holes"
+
 ***
 
 ### 𝐇𝐈𝐒𝐓𝐎𝐑𝐘, 𝐋𝐀𝐖, & 𝐏𝐎𝐋𝐈𝐓𝐈𝐂𝐀𝐋 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 ⚖
