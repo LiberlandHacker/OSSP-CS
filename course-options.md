@@ -57,6 +57,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 
 #### 🔴 Investing
 ##### BOOKS
+* 2001: Rappaport & Mauboussin: Expectations Investing: Reading Stock Prices for Better Returns"
 * 2008: Roger Lowenstein: "Buffet: The Making of an American Capitalist"
 * 2012: Robert Kiyosaki: "Rich Dad's Guide to Investing"
 * 2018: Grant Cardone: "How to Create Wealth Investing in Real Estate"
