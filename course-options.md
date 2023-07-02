@@ -97,7 +97,7 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 
 ***
 
-### 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝚂𝙲𝙸𝙴𝙽𝙲𝙴 🖥
+### 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝚂𝙲𝙸𝙴𝙽𝙲𝙴 & IT 🖥
 
 #### 🔴 Automation
 This course is designed to introduce students to the basics of automation and its role in the modern workplace. The course will cover the fundamental concepts of automation and provide an overview of the tools and techniques used in automation.
@@ -120,6 +120,8 @@ This course is designed to introduce students to the basics of automation and it
 ##### COURSES:
 * Hack the Box Academy
 * Hack the Box
+
+#### 🔴 Security+
 
 #### 🔴 Solidity Programming
 ##### BOOK: 
