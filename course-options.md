@@ -192,7 +192,12 @@ The languages listed here are strategically chosen due to their particular impor
 * 1988: Stephen Hawking: "A Brief History of Time: from the Big Bang to black holes"
 
 ***
+### MUSIC
+#### 🔴 Intro to Music Theory and Practice
+##### BOOKS
+* 1981: Robert L. Garretson: "Conducting Choral Music, Fifth Edition"
 
+***
 ### 𝐇𝐈𝐒𝐓𝐎𝐑𝐘, 𝐋𝐀𝐖, & 𝐏𝐎𝐋𝐈𝐓𝐈𝐂𝐀𝐋 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 ⚖
 
 #### 🔴 American Elections
