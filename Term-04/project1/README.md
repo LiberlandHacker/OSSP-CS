@@ -1,10 +1,10 @@
 
-# 🟢 Project1: Get an internship in tech 
+# 🟢 Project1: Get an entry-level job in tech 
 COMPLETED. Company undisclosed.
 
 ## Initial Training Program: COMPLETE.
 
-Grades from initial training for Technical Support are as follows:
+Grades from initial training (2023/05/15 - 2023/06/23) for Technical Support are as follows:
 ### Daily Definitions 
 | Course item | Grade |
 |-|-|
