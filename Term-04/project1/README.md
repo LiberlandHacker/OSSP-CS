@@ -33,6 +33,7 @@ Grades from initial training for Technical Support are as follows:
 |Q9|100|
 |Q10|90.91|
 |Q11|100|
+|**MEAN**|**98.46**|
 
 ### Assessments
 | Course item | Grade |
@@ -40,6 +41,7 @@ Grades from initial training for Technical Support are as follows:
 |A1|98|
 |A2|97.58|
 |A3|100|
+|**MEAN**|**98.53**|
 
 ### Activities
 | Course item | Grade |
@@ -51,4 +53,5 @@ Grades from initial training for Technical Support are as follows:
 |-|-|
 |Closed Final|96.00|
 |Open Final|98.68|
+|**MEAN**|**97.34**|
 
