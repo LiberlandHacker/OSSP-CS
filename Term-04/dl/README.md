@@ -7,15 +7,4 @@
 
 ### 🟢 [Go through OK licensing process](./license)
 
-### 🔴 Practice what to do after a collision in Oklahoma
-Fill out accident report.
-
 ## 🟡 [First Car](./firstCar)
-
-
-## 🔴 BONUS: [New Hampshire](./new-hampshire)
-[<img height=200px src="https://user-images.githubusercontent.com/67705789/230822685-708ec147-f608-40ac-8ed5-77cc62d330f3.png">
-...........NH Drivers Manual](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf)
-
-### 🔴 Practice what to do after a collision in New Hampshire
-Fill out accident report.
