@@ -28,7 +28,7 @@
 
 #### [🟢 Project1: Get an internship/job in tech.](./project1)
 
-#### [🟡 Get Oklahoma Drivers License](./dl)
+#### [🟢 Get Oklahoma Drivers License](./dl)
 
 [Service Oklahoma](https://oklahoma.gov/service/all-services/driving-and-automobiles.html).
 
