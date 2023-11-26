@@ -211,7 +211,7 @@ In case it is useful, here is a handy guide:
           </tr>
           <tr>
             <td>D</td>
-            <td>Devestating 😱</td>
+            <td>Devastating 😱</td>
           </tr>
           <tr>
             <td>F</td>
