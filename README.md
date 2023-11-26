@@ -95,7 +95,7 @@ If you are a student who is interested in using my notes for your own study, ple
 Of course, as long as your academic authorities allow it, you are welcome to use this repo as a resource for your own learning, subject to the included [LICENSE](LICENSE). 
 
 ## Notes on Notes
-Note: Not all notes are posted here. If you are an interested party who desires to review my handwritten notes for any course, please send me a request directly and I'll see what I can do for you. 
+Note: **Not all notes are posted here.** Some are handwritten, as I find it more convenient in many cases, especially for notations which Markdown is not well-suited for. If you are an interested party who desires to review my handwritten notes for any course, please send me a request directly and I'll see what I can do for you. 
 
 ## Acknowledgements
 
