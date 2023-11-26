@@ -64,7 +64,7 @@ In an effort to prevent overthinking, I should use this aid to choose which subj
 ``` python
 import random
 
-classes = ["Calculus", "Computation Structures", "Computer Architecture", "Driver's License", "Intro to CS", "Satanism I"]
+classes = ["Calculus", "Computation Structures", "Computer Architecture", "Driver's License", "Intro to CS"]
 
 selected_class = random.choice(classes)
 print(f"You get to study {selected_class} RIGHT NOW!!!")
