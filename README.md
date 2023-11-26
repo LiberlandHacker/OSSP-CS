@@ -108,4 +108,6 @@ Special thanks to everyone who helped make this education journey possible for m
 * freeCodeCamp, 
 * my high school teachers at Maplewood Academy,
 * Andrews University (esp. the Math Dept.),
+* Bartlesville Public Library,
+* the many authors, content creators who share their knowledge with the world,
 * et al.
