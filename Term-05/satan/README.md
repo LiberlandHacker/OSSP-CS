@@ -1,4 +1,4 @@
-# ⛧ Satanism II: Satan and Human Nature ⛧
+# ⛧ Philosophy & Religious Studies: Satanism II: Satan and Human Nature ⛧
 
 Jonathan A. McCormick, Jr.
 
