@@ -123,6 +123,12 @@ This course is designed to introduce students to the basics of automation and it
 
 #### 🔴 Security+
 
+#### 🔴 Security/Surveillance Systems, Home
+Study and assemble a home secuity system with a focus on user control of the data. 
+
+#### 🔴 Security/Surveillance Systems, Vehicle
+Study and assemble a vehicular secuity system with a focus on user control of the data. 
+
 #### 🔴 Solidity Programming
 ##### BOOK: 
 Hands-On Smart Contract Development with Solidity and Ethereum 
