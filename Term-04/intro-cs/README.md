@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-As found on https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/, but with some changes.
+As found on <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/" target="_blank">MIT OCW: Intro to Computer Science and Programming in Python from Fall of 2016</a> , but with some changes.
 
 Instructor: Dr. Ana Bell
 
