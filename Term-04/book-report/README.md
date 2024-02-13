@@ -65,6 +65,14 @@ War created heightened demand for computational tools.
 * Code breaking
 * Ballistics predictive math
 
+Here are some notable moments in the development of computers:
+* 1930: Vennevar Bush's differential analyzer
+* 1936: Alan Turing publishes his paper "On Computable Numbers"; Claude Shannon shows the connection between symbolic logic and electrical circuits.
+* 1937: George Stibitz builds a binary adder
+* 1941: Konrad Zuse designs and builds the first general-purpose computer.
+* 1943: Colossus goes into service cracking German codes.
+* 1944: Howard Aiken's Mark I is released.
+* 
 
 ### 4. Evolution of the Microchip
 ### 5. A Golden Age of Entrepreneurship
