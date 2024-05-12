@@ -48,7 +48,7 @@ Since Jonathan is doing this course independently, grading will not be done. Ins
 |🟢|1|	What is computation?|Pset 0 released|
 |🟢|2|	Branching and Iteration|	Pset 1 released|
 |🟢|3|	String Manipulation, Guess and Check, Approximations, Bisection	|Pset 0 due|
-||4|	Decomposition, Abstractions, Functions	|Pset 2 released|
+|🟢|4|	Decomposition, Abstractions, Functions	|Pset 2 released|
 ||5|	Tuples, Lists, Aliasing, Mutability, Cloning	|Pset 1 due|
 ||6|	Recursion, Dictionaries|	Pset 3 released|
 ||7|	Testing, Debugging, Exceptions, Assertions	|Pset 2 due; Quiz 1|
