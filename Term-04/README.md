@@ -15,6 +15,8 @@
 
 [MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/). 
 
+#### [🟢 CompTIA Network+](./network-plus)
+
 #### [🟡 Computer Architecture](./computer-architecture)
  
 [MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
