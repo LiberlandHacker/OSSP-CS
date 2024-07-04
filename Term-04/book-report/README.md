@@ -58,6 +58,18 @@ Using these, we can arbitrarily assign letters to certain binary number values. 
 
 Logic gates were developed in order to perform certain operations on information: AND, OR, and NOT. 
 
+When dealing with any number greater than 1, binary requires more place values to represent it. Therefore, a base system like binary is relatively inefficient for use in systems where there is not an inherent advantage to using it. 
+
+#### Example:
+
+If I buy a book from a store, the page numbers would use up a small amound of ink. if the book is 100 pages long, the 100th page could be represented as follows:
+|Base 100|Hex|Decimal|Binary|
+|-|-|-|-|
+|1|64|100|1100100|
+
+So as we can see, different base systems can take up different quantities of characters, and thus different space and ink requirements. If the printer wanted to conserve resources, then using the decimal system would aid that goal more than the binary system. While other systems (Hex, etc.) would be even more resource-conserving to the printer than decimal, the everyday reader would likely be confused. Therefore, decimal is an optimal option for being both recognizable and efficient.
+
+
 ### 3. A Wartime Burst of Progress
 
 War created heightened demand for computational tools. 
@@ -74,26 +86,5 @@ Here are some notable moments in the development of computers:
 * 1944: Howard Aiken's Mark I is released.
 * 
 
-### 4. Evolution of the Microchip
-### 5. A Golden Age of Entrepreneurship
-
-## Jonathan McCormick Jr's Analysis of the Book
-
-### 1. Building Up the Computer Revolution
-### 2. The Power of Binary Code
-
-When dealing with any number greater than 1, binary requires more place values to represent it. Therefore, a base system like binary is relatively inefficient for use in systems where there is not an inherent advantage to using it. 
-
-#### Example:
-
-If I buy a book from a store, the page numbers would use up a small amound of ink. if the book is 100 pages long, the 100th page could be represented as follows:
-|Base 100|Hex|Decimal|Binary|
-|-|-|-|-|
-|1|64|100|1100100|
-
-So as we can see, different base systems can take up different quantities of characters, and thus different space and ink requirements. If the printer wanted to conserve resources, then using the decimal system would aid that goal more than the binary system. While other systems (Hex, etc.) would be even more resource-conserving to the printer than decimal, the everyday reader would likely be confused. Therefore, decimal is an optimal option for being both recognizable and efficient.
-
-
-### 3. A Wartime Burst of Progress
 ### 4. Evolution of the Microchip
 ### 5. A Golden Age of Entrepreneurship
