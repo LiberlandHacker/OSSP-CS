@@ -1,12 +1,11 @@
 # 🚀 My Open-Source Study Path — Computer Science (OSSP-CS)
 
-Computer Science with a focus on [Python](https://www.python.org/) programming.
+College-level Computer Science education equivalent using a diverse range of resources.
 
 [**View Jonathan's TRANSCRIPT here:** `./transcript.md`](./transcript.md)
 
 <img src="https://user-images.githubusercontent.com/67705789/221333285-bda5c26b-5dae-4e25-b686-b122bea54082.png" alt="Computer art" width="33%" height="auto"><img src="https://user-images.githubusercontent.com/67705789/221333502-678473c6-5935-4c6a-8c97-0e1245311585.png" alt="Computer art" width="33%" height="auto"><img src="https://user-images.githubusercontent.com/67705789/221333587-f175491d-5bb7-4380-88d2-ee1ea6f266cb.png" alt="Computer art" width="33%" height="auto">
 _Computer art prompted by Jonathan McCormick, Jr. and generated using [Craiyon AI](https://www.craiyon.com/). 24 Feb, 2023._
-
 
 ## Intro
 
