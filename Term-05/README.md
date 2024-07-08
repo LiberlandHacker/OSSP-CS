@@ -5,6 +5,8 @@ Pick 3 companies to apply to.
 ## 🔴 Calculus 1B
 [MIT Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about).
 
+## 🔴 Government: assist in the development of the Liberland political/legal systems
+
 ## 🔴 UX Design
 > [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) *(Note: Android platform)*
 Here is an outline of an Intro UX course:
