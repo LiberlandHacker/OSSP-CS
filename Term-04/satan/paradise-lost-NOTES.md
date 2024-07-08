@@ -19,7 +19,7 @@ by John Milton
 
 [BOOK II](#book-ii) 😈 Satan: the Volunteer
 
-[BOOK III](#book-iii) 😈
+[BOOK III](#book-iii) 😈 Satan: Traveling to Earth 
 
 [BOOK IV](#book-iv) 😈
 
@@ -182,7 +182,7 @@ There is then some description of Hell's features, including rivers inspired by 
 
 ## Book III
 
-Satan: the 
+Book III goes over God foreseeing the Fall and arranging for Jesus to be punished in order to fulfill God's sense of cosmic justice while saving humanity. It also mentions how Satan travels to (presumably) the solar system for Earth while on his journey to meet humanity.
 
 
 ## Book IV
