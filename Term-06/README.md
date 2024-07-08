@@ -83,3 +83,6 @@
     * Seal the bunker. 
     * Revisit it a year later.
     * Note the conditions of the cache contents. Grade based on results.
+
+
+#### 🔴 CompTIA Security+
