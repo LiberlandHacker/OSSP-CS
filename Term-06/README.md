@@ -1,7 +1,8 @@
 # Term 06
 
+#### 🔴 CompTIA Security+
 
-#### 🔴 Construction: How to build a physical structure
+#### 🔴 Engineering: How to design and build a physical structure
 
 ##### BOOKS:
 * 1979: Gaylord and Gaylord: "Structural Engineering Handbook"
@@ -85,4 +86,4 @@
     * Note the conditions of the cache contents. Grade based on results.
 
 
-#### 🔴 CompTIA Security+
+#### 🔴 Intro to Programming with Rust
