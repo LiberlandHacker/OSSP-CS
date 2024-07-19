@@ -1,7 +1,7 @@
 # 🟨 Term 04
 **Self-study: Summer 2022, Spring 2023**
 
-#### [🟡 Book Report: Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books](./book-report)
+#### [🟡 Book Report: Write a book report on "Computer Basics (1985)" by Time-Life Books](./book-report)
 
 #### [🟡 Calculus 1A](./calculus-1A)
 
