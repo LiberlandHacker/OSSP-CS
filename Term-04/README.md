@@ -21,6 +21,9 @@
  
 [MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
 
+#### [🔴 Google AI Essentials (in collaboration with Coursera and Oklahoma gov)](./ai-essentials)
+
+
 #### [🟡 Intro to Computer Science](./intro-cs)
 [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
