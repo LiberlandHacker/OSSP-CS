@@ -1,5 +1,7 @@
 # 🟨 Term 04
 
+#### [🟢 LGR Rust Developer Bootcamp](./rdb)
+
 #### [🟢 AWS Technical Essentials](./aws-tech-essentials)
 
 #### [🟡 Calculus 1A](./calculus-1A)
