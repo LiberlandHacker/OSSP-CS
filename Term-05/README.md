@@ -1,4 +1,7 @@
 # Term 05
+
+## 🟢 [LGR Rust Live Accelerator](./rla)
+
 ## 🔴 Linear Algebra
 
 ## 🟡 Write and publish a book
